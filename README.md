@@ -30,3 +30,21 @@ Update: Dated 23rd September, 2016
 ##Pre-Processing:
  The pre-processing is being done using the following steps - 
  ![](http://cse.iitkgp.ac.in/~annepuss/ML/Pre-Processing.png)
+
+---------------------------------------------------------------------------------------------
+Update: Dated 23rd September, 2016
+
+##Features Identified:
+ Our summarizer produces summaries using a feature profile oriented sentence extraction stategy. The following features have been identified as important:
+ 
+    1)  CUE PHRASES
+    2)  SIMILARITY TO THE TITLE
+    3)  TF-ISF
+    4)  DEGREE CENTRALITY
+    5)  C-LEX RANK
+    6)  TEXT RANK
+    7)  NON-ESSENTIAL WORDS (Like "Additionally")
+    8)  NUMERICAl DATA
+    9)  SENTENCE LENGTH
+    10) SENTENCE POSITION
+    11) WORDNET BASED RANKING
