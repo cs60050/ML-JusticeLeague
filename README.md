@@ -47,3 +47,15 @@ Update: Dated 23rd September, 2016
     8)  NUMERICAl DATA
     9)  SENTENCE LENGTH
     10) WORDNET BASED RANKING
+
+----------------------------------------------------------------------------------------------
+Update: Dated 24th September, 2016
+
+## Feature Extraction
+  **Mean TF-ISF** 
+  
+  This feature is analogous to TF-IDF in the context of Information Retrieval. In IR, we have to select few documents which are most relevant from a given set of documents. Here, we have to select few sentences from the given document.The used feature is calculated as the mean value of the TF-ISF measure for all the words of each sentence.
+  
+  **Sentence Length** 
+  
+  Sentences of too short length add little value when included in the summary. This feature is used to penalize such sentences so that they will not be included in final summary
