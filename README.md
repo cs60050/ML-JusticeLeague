@@ -22,14 +22,14 @@ This is the repository for our term project - **Automatic Document Summarization
 Update: Dated 5th September, 2016
 
 ##Introductory Presentation:
- Please follow this link to the RoadMap Presentation - [DocSummarization-ML](https://github.com/cs60050/JusticeLeague/blob/master/DocSummarization-ML.pdf)
+ Please follow this link to the RoadMap Presentation - [DocSummarization-ML](https://github.com/cs60050/ML-JusticeLeague/blob/master/DocSummarization-ML.pdf)
  
 ---------------------------------------------------------------------------------------------
 Update: Dated 23rd September, 2016
 
 ##Pre-Processing:
  The pre-processing is being done using the following steps -
- ![](http://cse.iitkgp.ac.in/~annepuss/ML/Pre-Processing.png)
+ ![](./Pics/Pre-Processing.png)
 ---------------------------------------------------------------------------------------------
 Update: Dated 23rd September, 2016
 
@@ -55,7 +55,7 @@ Update: Dated 24th September, 2016
   
   This feature is analogous to TF-IDF in the context of Information Retrieval. In IR, we have to select few documents which are most relevant from a given set of documents. Here, we have to select few sentences from the given document.The used feature is calculated as the mean value of the TF-ISF measure for all the words of each sentence. The feature is calculated in the following way-
   
-  ![](http://cse.iitkgp.ac.in/~annepuss/ML/TF-ISF.png)  
+  ![](./Pics/TF-ISF.png)  
   
   **Sentence Length** 
   
@@ -65,5 +65,5 @@ Update: Dated 24th September, 2016
   
   Sentences at the start of the document and also at the end of the document generally have more importance and are candidates to be included in the summary. Even, sentence position in each paragraph is useful, but here the summarizer checks for the overall position and weights accordingly (as it summarizes news articles which generally tend to have information about a single aspect and not divided into paragraphs - Identified from the corpus present with us). This is the graph which shows the normalized weights assigned to sentences-
   
-  ![](http://cse.iitkgp.ac.in/~annepuss/ML/SentencePosition.png)
+  ![](./Pics/SentencePosition.png)
 
