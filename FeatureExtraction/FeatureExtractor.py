@@ -1,9 +1,7 @@
 from PreProcess import doPreProcessing
 from VectorSpaceModel import convertToVSM
 from TF_ISF import calcMeanTF_ISF
-from summa import summarizer
-
-
+from tRank import modifiedSummarizer
 # Feature Vector -
 # Features - [ Mean_TF_ISF, Sentence Length,  Sentence Position,   textRank,   ....         ]
 # Indexes  - [     0      ,        1       ,          2        ,   3       ,   ....         ]
@@ -17,6 +15,7 @@ def extractFeatures(ip_doc):
 	maxlen = max(lengths)
 	VSM = convertToVSM(sentences)
 	VSM_deepCopy=VSM[:]
+	summarizer = modifiedSummarizer()
 	sentenceRanks=summarizer.summarize(VSM_deepCopy,1,None,"english",False,True)
 	featureVectors = []
 	for i in range(sentences_len):
