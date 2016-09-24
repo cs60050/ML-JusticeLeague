@@ -6,7 +6,7 @@ def doPreProcessing(ip_doc):
 	ps = PorterStemmer()
 	fulldoc = []
 	lengths = []
-	sentences = sent_tokenize(ip_doc)
+	sentences = ip_doc.split("\n")
 	for sent in sentences:
 		if(sent != "."):
 			tokens =  word_tokenize(sent)
