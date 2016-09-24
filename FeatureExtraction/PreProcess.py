@@ -21,8 +21,8 @@ def doPreProcessing(ip_doc):
 										  "!" not in x and\
 										  ";" not in x\
 										  , words))
-			length = len(words)	
 			words = [str(ps.stem(word)) for word in words if word not in stopwords.words('english')]	
+			length = len(words)	
 			fulldoc.append(words)
 			lengths.append(length)
 	return fulldoc, lengths
