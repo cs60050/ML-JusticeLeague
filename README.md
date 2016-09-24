@@ -28,7 +28,8 @@ Update: Dated 5th September, 2016
 Update: Dated 23rd September, 2016
 
 ##Pre-Processing:
- The pre-processing is being done using the following steps - 
+ The pre-processing is being done using the following steps -
+ ![](http://cse.iitkgp.ac.in/~annepuss/ML/Pre-Processing.png)
 ---------------------------------------------------------------------------------------------
 Update: Dated 23rd September, 2016
 
