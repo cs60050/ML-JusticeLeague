@@ -1,0 +1,52 @@
+Airlines take another look at inflight Internet - CNN.com
+NEW YORK ( AP ) -- Airlines and service providers seeking to deliver high-speed Internet services to passengers say they 've learned from Boeing Co. 's 2006 decision to pull the plug on its ambitions to outfit its planes with a similar service .
+
+Analysts say Boeing 's failed Connexion online service was costly to install and operate , resulting in large expenditures before getting a single paying customer .
+An industrywide downturn triggered by the 2001 terrorist attacks made the system an even tougher sell to struggling airlines .
+
+Among other things , JetBlue Airways Corp. , AMR Corp. 's American Airlines and Virgin America are today turning to air-to-ground connections to avoid Boeing 's expensive satellite fees .
+
+' We wanted to attack every one of the things that were inhibitors in that first-generation system, ' said Jack Blumenstein , chief executive of Aircell LLC , which is providing service for American and Virgin .
+
+JetBlue 's LiveTV subsidiary paid the Federal Communications Commission $ 7 million for wireless spectrum that one test JetBlue aircraft has been using since Decemeber 11 to communicate with about 100 cell towers spread across the continental United States .
+
+The 1-megahertz frequency band allows that aircraft to offer free e-mail and instant-messaging services on laptops and handheld devices through Yahoo Inc. and BlackBerry maker Research In Motion Ltd .
+
+Aircell licensed a band three times the size of LiveTV 's for $ 31 million and plans to offer broader Internet services , including Web surfing , for about $ 10 a flight -- what Boeing had charged for the first hour .
+Pending regulatory approval , Aircell 's first Internet-capable flight is expected on American in 2008 , using 92 cell towers on the ground .
+
+The air-to-ground approach has its limits , though .
+It 's useless for many international flights because of long stretches over oceans .
+And it has n't been approved outside North America .
+
+That is why Alaska Air Group Inc. 's Alaska Airlines , which has over-the-ocean flights to Alaska and Hawaii , is going with a satellite-based system through Row 44 Inc. Row 44 is using an existing satellite network from Hughes Communications Inc. rather than trying to assemble its own as Boeing had .
+
+Panasonic Avionics Corp. , a unit of Matsushita Electric Industrial Co. , took a similar approach in developing a service for Australia 's Qantas Airways Ltd. and other airlines .
+
+' The service itself is about three times more bandwidth efficient than Connexion was, ' said David Bruner , Panasonic 's executive director for corporate sales and marketing .
+
+Think of it this way : Boeing leased satellite transponders from various providers whether it needed the capacity or not .
+Under its deal with Intelsat Ltd. , Panasonic can buy capacity in smaller units until it needs more .
+
+Technology also has improved such that airplanes using Row 44 's or Panasonic 's systems do n't need to carry as much weight as Boeing required , saving fuel costs .
+
+Panasonic plans to charge about $ 12 an hour or $ 22 per 24-hour period for its service , compared with Boeing 's $ 10 for the first hour or $ 27 for the full day .
+Alaska has n't set prices , and free service for frequent fliers was among its options .
+
+OnAir , which recently started service on one Air France aircraft , is taking yet another approach in delivering inflight services : It is using existing cellular phone systems , including their technical and billing infrastructure .
+
+With an on-board GSM cell 'tower ' certified by European regulators , phones wo n't emit strong signals and potentially interfere with the aircraft 's navigational equipment trying to connect with a tower on the ground .
+
+Boeing had deals with major international carriers such as Germany 's Lufthansa AG and Japan Airlines Corp. , but large U.S. carriers -- several of which filed for bankruptcy in the aftermath of September 11 -- balked at investing in extra services .
+
+Boeing , which did not disclose how much it invested in the service , took a pretax accounting charge of $ 320 million in 2006 .
+
+Glenn Fleishman , editor of the Wi-Fi Networking News site , said Connexion 's failure resulted from Boeing 's specific approach and 'does n't reflect the viability of ( in-flight services ) from a financial or technical perspective. '
+
+He said the new approaches look promising , though they may run into their own issues with scalability or coverage .
+
+Boeing spokesman John Dern said the aircraft maker had no plans to re-enter the business and was leaving such services to others .
+
+' There are others out there with different business models , and I do n't know anyone who 's mounted a successful standalone business yet, ' Dern said .
+' No doubt there will be firms that try , and I 'm sure somebody will figure out a way to do it. '
+

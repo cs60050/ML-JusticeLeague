@@ -1,0 +1,67 @@
+1 Asus laptop loaded with Blu-ray drive - CNN.com .
+3 -LRB- CNET -RRB- -- The Asus M70 is the most fully loaded laptop we 've seen in a long while .
+
+1 Aside from its massive terabyte of hard-drive space -LRB- enough to hold a few hundred movies or a few hundred thousand MP3s -RRB- , the multimedia system incorporates a Blu-ray drive and a full-HD display , plus an HDMI port , TV tuner , and five-speaker stereo sound .
+
+3 Given its full feature set , the M70 's $ 2,399 price tag seems like a steal , especially compared with the $ 2,499 Acer Aspire 8920 , which offers similar features and an 18-inch display , but lacks the storage space and connections of the M70 .
+
+3 A more casual media enthusiast could be satisfied with the HP Pavilion dv9700t , which offers similar features -LRB- though with a lower-resolution display , less hard-drive space , and no TV tuner -RRB- for nearly $ 500 less than the Asus .
+3 But the well-equipped M70 offers the ultimate feature set for film buffs , file hoarders , and others who want their laptop to serve triple duty as a computer , media library , and high-def home theater .
+
+3 Make no mistake : The 16.1-inch-wide Asus M70 will take up a significant footprint on your desk or TV stand .
+3 It is both larger and heavier than HP 's multimedia-oriented desktop replacement , the Pavilion dv9700t , but still a touch more compact than the Acer Aspire 8920 , which incorporates an 18-inch screen for viewing HD content .
+3 And weighing 8.8 pounds without the AC adapter , the M70 is n't traveling anywhere , except maybe from the living room to the bedroom .
+
+3 When it comes to aesthetics , the Asus M70 has a consumer-electronics look that should coordinate well with your living room electronics .
+3 Its reflective black lid features a subtle horizontal strip design , and the glossy gray keyboard deck is likewise attractive .
+3 Chrome accents around the keyboard and white status LEDs on the interior add to the upscale look .
+
+3 The Asus M70 includes a 17.1-inch wide-screen display with a sharp 1,920 x1 ,200 native resolution .
+2 That HD-friendly resolution pairs well with the laptop 's Blu-ray drive and affords plenty of real estate for viewing multiple windows side by side .
+
+1 In addition to an ambient light sensor that automatically adjusts screen brightness , the M70 incorporates Asus ' Splendid Video Intelligence Technology , which adjusts contrast , brightness , and color saturation according to your application .
+2 With the touch of a button , users can toggle among Splendid settings that are optimized for gaming , movies , pictures , ordinary desktop use , and use in dark environments .
+
+3 It seems like a gimmick , but we found the presets did make a difference , and we appreciate that we did n't have to fuss with the control panel in order to get decent settings for watching movies or surfing the Web -LRB- to name a few examples -RRB- .
+3 Above the screen sits a rotating 1.3-megapixel Webcam that lets you take pictures on either side of the laptop 's lid .
+
+3 Like almost all desktop replacements , the Asus M70 incorporates a comfortable , full-size keyboard with a 10-key numeric keypad .
+2 Above the board sit four buttons that toggle various settings : the Power4Gear Extreme key toggles among power-saving modes ; a touch pad lock key quickly turns the touch pad on and off ; a Splendid key switches among the display mode settings discussed above ; and a final key launches the media player .
+3 The keyboard deck is otherwise barren , save for a fingerprint reader nestled between the mouse buttons .
+
+3 The Asus M70 's touch pad becomes a media control panel with a touch of the Mode button at the top right of the pad .
+2 In ordinary mouse mode , the pad is dark gray , but switching to Multimedia mode reveals glowing white buttons for play , stop , track forward\/back , adjust backlight brightness , and mute .
+3 There are also two programmable application launch buttons , and the scroll zone along the right side of the pad becomes a handy volume slider .
+
+3 It 's not the first time we 've seen controls embedded into the touch pad -LRB- Toshiba has incorporated a control panel into some models of its Qosmio line -RRB- , but it 's the first time we 've found them useful .
+3 Of course , if you 're using an external mouse , you can leave the pad in Multimedia mode all the time .
+
+3 Pretty much any media-related connection you could dream of can be found around the M70 's case .
+3 S\/PDIF out ?
+3 Check .
+3 S-Video in ?
+3 Check .
+1 Blu-ray drive with HDMI-out so you can watch high-definition movies on a TV ?
+1 Check and check .
+
+3 Asus also includes a mini TV antenna for use with the M70 's internal TV tuner -- though the company oddly neglects to include a Media Center remote .
+3 And if the laptop 's massive hard-drive space just is n't enough for you , the M70 includes an eSATA port , good for hooking up external SATA hard drives .
+3 Also worth noting are the M70 's four stereo speakers plus subwoofer , which produce full , balanced sound .
+
+3 The Asus M70 is available in a range of configurations , from a $ 1,299 basic multimedia system -LRB- without a Blu-ray drive or HD-quality display -RRB- to a fully loaded , $ 2,399 entertainment powerhouse .
+3 We tested the latter , which includes a processor near the top of Intel 's Core 2 Duo line and movie-oriented ATI Mobility Radeon HD3650 graphics .
+3 -LRB- The midrange graphics card has some lesser specs than many gaming enthusiast cards , but it does incorporate AMD 's Unified Video Decoder , which is designed to lighten the processing load on the CPU when displaying HD video . -RRB-
+
+1 Because the M70 ships with the 32-bit version of Windows Vista , it 's only capable of accessing 3GB of its generous 4GB RAM allotment ; it would have made more sense to ship with the 64-bit version of Windows so that last 1GB of RAM was n't sitting dormant .
+
+3 On the Multimedia multitasking portion of CNET Labs ' performance benchmarks , the M70 fell in line with other entertainment-oriented desktop replacements , such as the HP Pavilion dv9700t .
+3 On our RAM-intensive Photoshop test , the M70 fell behind the Gateway P-172X FX and the Acer Aspire 8920 , though the gap is small enough that it 's not likely to be noticeable during typical multimedia use .
+
+3 As evident from the results of our Unreal Tournament test , the M70 is n't really the best choice for gamers ; its frame rates , though adequate for casual gaming , were no match for the gaming-oriented -LRB- but Blu-ray-free -RRB- Gateway P-172X FX .
+
+3 We hardly expect such a massive system to perform well on our battery tests .
+2 However , the Asus M70 lasted an impressive 2 hours , 29 minutes on our taxing DVD drain test .
+2 That battery life would be admirable on a smaller laptop and is downright impressive for a desktop replacement with such a large screen .
+
+1 Asus backs the M70 with a generous two-year warranty and offers online Web-based help and toll-free phone support .
+3 The company 's Web site includes the expected driver downloads and a brief FAQ but lacks useful features such as user forums or the chance to chat in real time with a technician .

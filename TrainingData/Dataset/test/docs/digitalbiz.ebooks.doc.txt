@@ -1,0 +1,138 @@
+Are we spell-bound by e-books? - CNN.com
+( CNN ) -- Imagine a magic scroll , one that contains a myriad of stories and tells you a different one every night .
+One that fetches you the morning news , generates customized crossword-puzzles , keeps an eye on your favorite authors and an ear on the local grapevine .
+Imagine a living , breathing kiosk of brain-candy and a library of literature that 's easy to read and rolls right up into the palm of your hand .
+
+Before jumping to the K-word , keep in mind the magic .
+Because while the concept is there , the Kindle is not -- yet .
+But as far as wireless dedicated e-book reading devices go , it 's a promising start .
+
+' Books are the last bastion of analog, ' Amazon founder Jeff Bezos declared a few days before the Kindle 's release on November 19 , 2007 .
+
+Indeed , sensations such as cracking open a brand-new hardcover or fondling the dog-eared corners of a favorite paperback in a second-hand bookshop die hard .
+But then , so do trees .
+
+In response to the lingering fetish for the printed page , Bezos sighed : 'I 'm sure people loved their horses too , but you 're not going to keep riding a horse to work. '
+
+Amazon 's Kindle sold out on the day of its release in less than six hours .
+
+Given its native pairing with Amazon.com on the mainstream market , the Kindle has not resisted comparison with Apple iTunes and the now ubiquitous iPod .
+
+Asked at the Macworld Expo in January 2008 what he thought of the Kindle , Apple founder Steve Jobs scornfully replied : 'It does n't matter how good or bad the product is ; the fact is that people do n't read anymore. '
+
+Ironically , just as the minority of Apple computer owners are rarely less than Mac evangelists , so a minority of amateur bookworms are rarely less than avid readers -- who will read whenever , wherever , however .
+
+Disappearing books
+
+' When you 're reading a book, ' says Kindle spokesman Andrew Herdener , 'you forget that it 's a container made of up paper , glue , stitching , cardboard , etc -- You get lost in the author 's world , and the book disappears .
+
+' We tried to replicate this same feature -- to make Kindle disappear .
+That 's why we used e-Ink and made it wireless , so you do n't even notice it 's a device. '
+
+The Kindle ( as in the sparkling ignition of knowledge ) was conceived with overtly bookish analogies , from its paperback size and electronic 'paper ' display to the librarian-monikered Whispernet ( based on mobile-phone carrier Sprint 's EVDO broadband service ) used to beam content into the box .
+
+Like other dedicated e-reader devices , the Kindle focuses on optimizing text display ( featuring adjustable font size ) and managing contextual references , such as a built-in dictionary , live Wikipedia access and an 'experimental ' browser that reads only text -- presumably , for less audio-visual distraction .
+
+You can pounce on newly purchased e-books in less than a minute , and subscribe to newspapers , magazines and blogs ( in 4-level grayscale ) , which are automatically refreshed , as long as the internal modem is turned on .
+You can also send it your own PDF , text or image documents , and even audio files , to 'kindle ' and read .
+
+But its free-access , unlimited Whispernet capability is what distinguishes the much-hyped Kindle from other e-readers currently available on the market -- which rely on either synching to a computer or WiFi access to the Internet -- making it a standalone , purpose-built , almost magic book .
+
+Not quite magic
+
+The Kindle itself is n't quite magic for three main reasons -- two of which apply to any e-reading device , and all of which can be resolved over time .
+
+Firstly , because of its exclusive partnership with Sprint , it only works to its full wireless potential within the U.S. , thus alienating would-be fans in the rest of the world .
+
+Secondly , because these devices focus on text , readers are limited to text-only , grayscale versions of otherwise colorful and lively newspaper , magazine and blog pages that are accessible for free on the Web .
+
+Thirdly , and most significantly , there still are n't enough e-books available to meet the demand .
+And unlike with MP3s , you ca n't easily rip your own books into a readable e-format .
+
+Amazon may boast the largest proprietary e-library with 126,994 Kindle books listed on its Web site , but one of the outstanding complaints from e-readers who have purchased any dedicated device is not finding the e-books they want .
+
+Publishing more e-content
+
+Fortunately , some publishers are listening .
+
+Just last week , Simon &amp ; Schuster announced 5,000 new titles to be made available for the Kindle in 2008 , primarily adult and children 's fiction and nonfiction .
+Apparently , e-publishing pays .
+
+'E-book sales are still a small , but fast-growing segment of our overall revenue, ' says Simon &amp ; Schuster 's Adam Rothberg .
+
+' In 2007 we experienced a 40 percent growth over 2006 .
+If current trends for 2008 hold , we expect that we will double or better that growth. '
+
+Meanwhile , ecologically responsible Random House , also known for pioneering a comprehensive collection of audio books , currently offers e-books in four dedicated formats , in addition to a selection of Kindled titles .
+
+It has also launched digital initiatives such as iFodors , making travel information and maps downloadable for PDA , online pay-per-page-view and individual chapter sales .
+
+Of course , e-publishing also saves trees -- not to mention the time and costs of manufacturing paper , printing , shipping and handling .
+
+Science-fiction author Cory Doctorow 's 'Down and Out in the Magic Kingdom ' was published simultaneously in print by Tor and electronically on the Internet in 2003 .
+Three years and six printings later , more than 700,000 copies of the book had been downloaded from his site .
+
+' The book 's been translated into more languages than I can keep track of , key concepts from it have been adopted for software projects , and there are two competing fan audio adaptations online, ' Doctorow writes in Forbes .
+
+' Most people who download the book do n't end up buying it , but they would n't have bought it in any event , so I have n't lost any sales , I 've just won an audience .
+( ... ) In an age of online friendship , e-books trump dead trees for word-of-mouth. '
+
+And if any doubts still arise about free online access spurring paper book sales , just ask J.K. Rowling how successful she thinks the print version of the Harry Potter Lexicon will be .
+
+No more twitchy little screens
+
+Long before the success of 'Brokeback Mountain, ' Fiction Pulitzer Prize winner Annie Proulx infamously told the New York Times in 1994 : 'Nobody is going to sit down and read a novel on a twitchy little screen .
+Ever.'
+
+Today , no less than seven of her authored books are available in Kindle edition from Amazon .
+
+Proulx was partly right .
+As an increasing number of people read digitized novels , the screens on which they read them are becoming much less twitchy .
+
+The new generation of e-book reader devices uses Electronic Ink , instead of LCD , to make ultra-flat , low-power electrophoretic displays that are easy on the eyes and look roughly like a super high-resolution etch-a-sketch .
+
+The first dedicated e-book device to integrate this technology was Sony 's LIBRIe , which was introduced to the Japanese market in 2004 .
+
+A full two years later , the English-version Sony Reader was launched in the U.S. in September 2006 .
+Its current PRS-505 edition , released in October 2007 with 8-level grayscale and now selling for $ 299 , is the closest rival to Amazon 's $ 349 Kindle .
+
+iRex Technologies ' higher-end ( and much pricier $ 699 ) iLiad , launched in July 2006 with WiFi access , pushes its electronic-paper display to 16 levels of gray and allows input via stylus on a A5-size touch screen , so it can actually be used like a paper notebook .
+
+Earlier this year , Polymer Vision announced its combination mobile-phone/e-reader baptized Readius , featuring a flexible 5-inch , 16-grayscale electronic-paper display that rolls up into a handy 115x57x21 millimeters in 115 grams .
+
+The next frontier
+
+For E Ink , the next frontier is color .
+
+Qualcomm 's mirasol technology , still in development , uses biomimetics to engineer low-power , flat-panel , color-rich displays viewable in any lighting condition , based on butterfly wings .
+
+Slowly but surely , we 're getting closer to the magic .
+
+Silicon Valley-based user-interface engineer Darryl Chin , 31 , has been using an iLiad for the past year , but now has his eye on the Kindle .
+
+His wish list for improvement , however , is noteworthy : 'Different screen-size choices , both bigger and smaller .
+Faster refresh rates .
+A well-thought-out user interface ( both menu systems and button layouts ) .
+A smaller keyboard , or slide-out/removable , or even virtual ( with touch sensitivity ) , so it 's almost all screen. '
+
+' The main thing, ' he continues , 'and seemingly always will be with e-books , is content .
+Give me all the books I want .
+Like CDs to MP3s , give me everything I can get physically , digitally. '
+
+E-book vs. paper book ?
+
+Stepping back from the fray , Rita Toews , author of several e-books and founder of the annual 'Read an E-book Week ' in March , dismisses the false competition between e-books and paper books .
+
+'E-books are great for people who travel a lot on business , for vacationers , or for people with limited space, ' she says .
+' They are also the perfect application for material that changes on a continual basis. '
+
+' Print books , on the other hand , have their place .
+Nothing can replace a beautiful art book , or a book of photography .
+E-books are simply a different format for something we 've had for hundreds of years .
+When penny dreadfuls were introduced in the 1800s they were scoffed at , as were paperback novels in the 1930s. '
+
+Also in the 1930s , as farmers were being signed up for rural electrification , one of the most common responses was : 'Why do we need electricity ?
+We have lanterns ! '
+
+Let there be light , and give us our magic scrolls .
+

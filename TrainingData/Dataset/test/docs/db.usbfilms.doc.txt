@@ -1,0 +1,111 @@
+Can the USB go from computer dork to Hollywood player? - CNN.com
+( CNN ) -- Foreseeing the future is a tricky business .
+Why , for instance , should Hollywood moguls have paid much attention when the USB standard emerged in the mid-90 's ?
+
+It simply made hooking computers to keyboards , printers and joysticks easier .
+
+Nothing could seem further from their glitzy world .
+How times change .
+
+Now USB ports are to be found in $ 300 portable video players and $ 3,000 50-inch plasma HDTVs .
+
+And they accept flash memory devices , which have undergone a revolution in storage capacity -- storing a dozen movies is not a problem .
+
+So in retrospect it was only a matter of time before entrepreneurs tried out this idea : public kiosks that allow consumers to download movies directly onto a USB memory device , to be watched later on their portable video players , computers , or TVs .
+
+Today an Irish startup called PortoMedia has tested the idea in some home markets , and a few U.S. trial cities are to be announced shortly .
+
+Business is being lined up in 30-plus countries , it says , and the service works equally well in Tokyo or small-town India .
+Its MoviePoint kiosk allows customers to download DVD-quality films in about 20 seconds onto its MovieKey , a USB memory device that costs between $ 20 and $ 100 , depending on the storage capacity ( from 2 to 15 movies ) .
+
+The films are burned onto the MovieKey with the relevant license at the point of purchase , using Microsoft DRM ( digital rights management ) .
+
+Consumers have several options on the licensing front .
+Examples : the movie expires 48 hours from hitting Play , or you can play it three times within 30 days , or it never expires ( in which case you 've purchased it ) .
+
+Now Hollywood is paying attention .
+A number of major studios have agreed to let their movies be rented through MoviePoint kiosks , and investors in the startup include some big-name film execs .
+
+Sticking it to old movie-watching habits ?
+
+A 20-second download is fast , but changing habits takes time .
+
+' Most consumers are used to browsing racks of the physical product , either on VHS or DVD, ' notes Marie Bloomfield , an analyst at Screen Digest .
+' This is a more pertinent issue than the time it takes to deliver the content. '
+
+PortoMedia might find encouragement -- or a threat -- in the rapid spread of DVD kiosks in the U.S. , most notably the Redbox kiosks found in McDonald 's , grocery stores and various retails locations .
+
+These kiosks can hold several hundred titles , which cost about $ 1 per day to rent .
+Downside : customers must physically return to disc ( though it can be to any kiosk , not just the one they rented from ) .
+
+MoviePoint has some pros and cons compared to the DVD kiosks .
+Most notably , it can hold far more titles -- thousands as opposed to hundreds .
+And because it copies rather than dispenses these titles , there 's never a problem with running out of stock .
+
+' Think about the how much more responsive the content offerings can be if an obscure movie , for example , becomes really popular -- like the 'Napoleon Dynamite ' phenomenon from a few years ago, ' notes Kurt Scherf , principal analyst at Parks Associates .
+
+Another plus with MoviePoint is there 's no need to return a movie , and no chance of late fees .
+
+For someone in transit -- at the airport , for instance -- this is a real convenience .
+And travelers in general face the problem of video-rental stores requiring membership and a local address .
+
+In the trials in Ireland , the ability to delay the rental period was one of the most popular features : the movie might expire 48 hours after you first hit Play , but when you first hit Play is up to you .
+
+For retailers , kiosks using hard drives means not having to worry about packaging and shipping costs , as with physical DVDs .
+And of course the kiosks take up little space , which makes more room for other products .
+
+' We used to have mom-and-pop video stores , and they got wiped out by the big chain video stores, ' notes Kim Gregson , a communications professor at Ithaca College in New York .
+
+' Now mom and pop can compete in terms of variety and quality without sacrificing too much floor space in a small store. '
+
+Competing against other formats
+
+There is also a new generation of DVD-burning kiosks allowing titles to be burned onto disc .
+These kiosks have the advantage of churning out something familiar : the DVD .
+Drugstore giant Walgreen is going with this approach for selling movies .
+
+But MoviePoint works much faster : about 20 seconds compared to about 15 minutes .
+
+On the down side , MoviePoint requires consumers to purchase extra hardware just to use it .
+They must buy the MovieKey .
+And if they want to connect it to a regular TV -- usually lacking a USB port -- they 'll also have to buy a special dock ( called MovieVault ) .
+
+Compare that to the simplicity of just buying a DVD .
+
+' If this thing is perceived as being even the slightest bit complex , it is likely doomed, ' believes Russ Crupnick , senior industry analyst for The NPD Group , a market research firm .
+' More consumers will likely prefer a disc. '
+
+MoviePoint probably has its best shot among early-adopters types who like being the first to try out new things .
+In the trials in Ireland , the MovieKey 'became something to show off to their friends -- cool and simple, ' according to PortoMedia spokesperson Jacintha O'Donohoe .
+
+Early adopters 'can spread the word about the speed of download , as well as the quality and variety of the movies , to the later adopters, ' suggests Gregson .
+
+But she still thinks converting the later adopters will be a challenge given all the competition .
+This competition includes , for starters : DVD rentals at stores and kiosks , cable TV 's video-on-demand , discs by mail as with Netflix , and cheap DVD purchases at places like Wal-Mart .
+Then there are the slightly more tech offerings .
+
+Downloading movies has n't really taken off yet , but these include online services like iTunes and Net-connected game consoles like the Xbox .
+
+And then , of course , the iPod must be considered .
+It also uses the USB standard , of course .
+iPods seems perfectly suited for MoviePoint concept .
+They 're familiar , widespread and can play video .
+
+But , sadly for PortoMedia , they are 'not compatible with any third-party digital content solution, ' notes Bloomfield .
+
+' Given that Apple accounts for a sizeable chunk of the video handheld market , that reduces the addressable market considerably. '
+
+Of course , Apple might spread into the USB kiosk market on its own .
+
+' But whether it would be interested in doing so is another matter entirely, ' says Bloomfield .
+
+The company is doing just fine with iTunes , and Apple TV , which links downloaded content to regular TVs , has been made easier to use since its first release .
+
+For PortoMedia and its backers , the competition , and the pros and cons of its system ( the list goes on and on ) , are all familiar .
+
+But for now , at least , the startup is in the spotlight of both Hollywood and Silicon Valley .
+
+Its MoviePoint kiosk is a bit like a new film on the verge of global release : Whether it flops , attracts a cult following , or hits the big time remains to be seen .
+
+Only one thing is certain at this point : Hollywood is no longer ignoring that boring old USB specification .
+
