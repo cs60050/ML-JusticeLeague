@@ -1,9 +1,9 @@
 from nltk.corpus   import stopwords
 from nltk.tokenize import sent_tokenize, word_tokenize
-from nltk.stem import WordNetLemmatizer
+from nltk.stem import PorterStemmer
 
 def doPreProcessing(ip_doc):
-    wl = WordNetLemmatizer()
+    ps = PorterStemmer()
     fulldoc = []
     smallsumm = []
     largesumm = []
@@ -17,7 +17,7 @@ def doPreProcessing(ip_doc):
                                       "," not in x and\
                                       "-" not in x\
                                       , words)) 
-        words = [str(wl.lemmatize(word)) for word in words if word not in stopwords.words('english')]
+        words = [str(ps.stem(word)) for word in words if word not in stopwords.words('english')]
         if words:
             fulldoc.append(words[1:])
             if(words[0]=="1"):
