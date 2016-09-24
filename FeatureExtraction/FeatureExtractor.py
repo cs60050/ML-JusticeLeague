@@ -16,7 +16,8 @@ def extractFeatures(ip_doc):
 	sentences_len = len(sentences)
 	maxlen = max(lengths)
 	VSM = convertToVSM(sentences)
-	sentenceRanks=summarizer.summarize(ip_doc,1,None,"english",False,True)
+	VSM_deepCopy=VSM[:]
+	sentenceRanks=summarizer.summarize(VSM_deepCopy,1,None,"english",False,True)
 	featureVectors = []
 	for i in range(sentences_len):
 		fVect = []
@@ -26,6 +27,6 @@ def extractFeatures(ip_doc):
 			fVect.append(0.9 - 1.6*i/sentences_len)
 		else:
 			fVect.append(0.1 + 1.6*(min([i-sentences_len/2, sentences_len/2]))/sentences_len)
-		fVect.append(sentenceRanks[i][1])
+		fVect.append(sentenceRanks[i])
 		featureVectors.append(fVect)
 	print featureVectors
