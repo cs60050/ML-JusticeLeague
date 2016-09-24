@@ -1,0 +1,3 @@
+Database provides information about who is putting CO2 into the atmosphere .
+Also shows the facilities and companies that are the most green .
+The U.S. has the most CO2 emissions , followed by China .

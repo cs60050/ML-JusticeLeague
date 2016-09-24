@@ -1,0 +1,45 @@
+2 Heathrow trial tackles lost luggage - CNN.com .
+1 LONDON , England -LRB- CNN -RRB- -- A six-month trial was launched this week that promises to transform the way luggage is tracked and monitored at London 's Heathrow airport .
+
+1 The trial -- run by BAA and airline Emirates -- is using RFID -LRB- radio-frequency identification -RRB- technology to tag baggage .
+1 This will allow staff to more accurately track bags passing through the airport .
+
+2 The crucial difference between RFID and the existing barcode system is its scanning accuracy .
+3 Barcode tags can be easily damaged in transit and are also at risk of being covered when scanned .
+3 If not scanned , details must be entered manually into the system , adding time and error to the process .
+
+3 BAA estimates that Heathrow can read only 60 per cent of labels that pass through .
+2 RFID is reported to offer over 99 percent accuracy .
+
+3 The 150,000 trial -- the first of its kind in the UK -- will continue for six months tracking bags for passengers traveling with Emirates to and from Dubai , and transferring through Heathrow .
+3 A duplicate of the Heathrow system has been installed at Dubai Airport .
+
+3 During the check-in process at Heathrow Terminal 3 , staff apply tags containing RFID chips to bags with information including the passenger 's name and route .
+
+3 The chips are then read on entry into the baggage system ; they are tracked as they move throughout ; and finally on leaving the system .
+3 As a result , says Shaun Cowlam , Logistics Director at Heathrow Airport , staff can know where a bag is at ` every moment of every day ' .
+
+1 BAA is also considering introducing a SMS text messaging service to keep passengers informed of where their bags are .
+1 When passengers arrive at Heathrow , says Cowlam , the idea will be to send passengers a text informing them what belt and what time their bags will arrive at .
+
+3 Ultimately , the use of RFID could extend services to frequent flyers , and provide the means to added value services such as faster check-in , and even be integrated with secure collection and delivery .
+
+3 The main benefits , however , will be for travelers passing through major hubs such as Heathrow and Dubai , as this system offers better processing of baggage on transfer flights .
+
+3 Emirates and BAA are sharing the costs of the trial .
+3 But as Vic Sheppard , Emirates Vice President for UK and Ireland says , ` cost is not an issue ' , especially considering the savings the airline is expected to achieve by reducing loss and repatriation of bags .
+
+3 And as Cowlam adds : ` if we can introduce this across the whole network the costs will reduce significantly . '
+
+3 Hong Kong International Airport was one of the first to deploy RFID technology in 2005 .
+3 But as outlined in a recent survey by SITA , RFID is being used in just 6 percent of the airports surveyed .
+
+3 ` For this system to really take off we need other airports and other airlines to embrace the technology , ' says Cowlam .
+
+3 That widespread adoption may not be far off .
+3 The SITA survey indicated that RFID tags will be used in 45 percent of airports by the end of 2009 .
+
+3 It 's still early days , but BAA and Emirates are optimistic for RFID 's future in airports .
+3 ` There have been giant strides in the technology in aviation in recent years .
+3 But in the last few decades there has n't been any advancement in the methods adopted for baggage handling , ' says Sheppard .
+3 ` This is a major step forward . '

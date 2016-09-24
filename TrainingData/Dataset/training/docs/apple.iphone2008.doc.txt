@@ -1,0 +1,104 @@
+2 New iPhone not perfect , but there 's a lot to like - CNN.com .
+2 -LRB- CNET -RRB- -- Almost one year after the original Apple iPhone went on sale , Apple CEO Steve Jobs has announced a 3G version of the device , finally putting to rest months of rumors and speculation .
+
+3 While some of the rumors panned out -- the new handset will offer full GPS -- other rumors , like the addition of a 32GB model , fizzled .
+
+1 But even with the long list of basic features that Apple still is denying us -LRB- hello , multimedia messaging ? -RRB- , the addition of 3G support is a big win .
+
+2 If data speeds hold up as Jobs demonstrated -LRB- more on that later -RRB- , the new iPhone really will put the Internet in your pocket .
+
+1 We also approve of the new price : $ 199 for the 8GB model and $ 299 for the 16GB version , a pleasing price for all but the poor souls who shelled out nearly $ 600 a year ago .
+
+3 The new iPhone will go on sale July 11 .
+
+3 Design 
+
+3 Though the iPhone 3G is thinner at the edges than its predecessor , the phone measures a hair thicker -LRB- 0.48 inches versus 0.46 inches -RRB- in the gut .
+
+3 The other measurements are the same except that it weighs just the slightest bit less -LRB- 4.7 ounces versus 4.8 ounces -RRB- .
+
+1 Otherwise , the iPhone 3G shows few cosmetic changes from the front -- same display size and resolution , and the single Home button sits just below the screen .
+
+3 We 're very pleased to see that Apple has done away with the irritating recessed headphone jack , which now is flush so that you 'll be able to use any 3.5 mm headphones you like .
+
+3 But turn over the iPhone 3G , and you 'll see more significant changes .
+
+3 A black , plastic skin replaces the current silver-aluminum back .
+3 The swap may cut the cost , but we worry about its long-term durability .
+3 The 8GB model will come in black only , while Apple promises the 16GB version in black and white .
+
+3 The white model is a bit random -- we were expecting something in red -- but color is a personal choice .
+
+3 The camera lens , volume rocker , charger port , speaker , microphone , power button , and display locking switch show no changes .
+3 Our News.com colleague got a hands-on with the new device and reports that it feels similar in the hand to the current model , with the exception of the tapered edges .
+
+3 3G 
+
+1 With support for three 3G bands -LRB- 850 , 1900 , 2100 -RRB- and both UMTS and HSDPA networks , the iPhone 3G is well positioned for using high-speed networks all around the world .
+
+3 Considering that Apple is promising to bring the device to 70 countries , it had better be .
+
+3 During his WWDC keynote , Jobs demonstrated Web download speeds between the two iPhones .
+3 On the original model , which runs on a 2.5 G EDGE network , a photo-heavy Web site loaded in 59 seconds , while the same site loaded in 21 seconds on the new device -- impressive , but we take it with a grain of salt for now .
+
+3 Real-world tests , particularly with a multitude of devices flooding the same network , will be more telling .
+
+3 GPS 
+
+3 This is one feature that was on our original iPhone wish list .
+3 While the current iPhone location services find your position via nearby cell phone towers and satellites , the iPhone 3G uses Assisted GPS supplemented by satellites .
+
+3 It also offers live tracking so you can monitor your progress as you drive -LRB- or walk -RRB- along .
+3 We 're excited to see this feature as well , as it fills in another gaping hole on the original handset .
+3 You 'll also find photo geotagging , and third-party applications with turn-by-turn directions are in the works .
+
+3 Third-party apps 
+
+3 Speaking of which , the iPhone 3G will indeed support the collection of apps available through the iPhone SDK -- no surprise here .
+
+3 Apple promises to open an apps store in early July -LRB- Apple did n't release an exact date -RRB- ; we 're guessing by July 11 .
+3 Gaming apps should feature prominently ; many will integrate with the phone 's accelerometer .
+
+3 Enterprise support 
+
+3 Worker bees will be pleased to know that the iPhone 3G will offer support for Microsoft Exchange Server .
+3 That will bring push e-mail , contacts and calendar , remote wipe , global contacts access , and auto-discovery .
+
+3 That 's another welcome change as it puts the iPhone in the hands of a whole new class of corporate users who now will be able to get their work e-mail on the iPhone .
+
+3 Battery life 
+
+3 Last year Jobs said that Apple had not included 3G in the first iPhone because it would have made too many compromises with the handset 's battery life .
+3 But now it appears that Apple has solved that problem .
+
+3 The iPhone 3G promises a solid 5 hours of 3G talk time , 10 hours of 2G talk time , 5 hours of 3G Internet time , 6 hours of Wi-Fi Internet time , 7 hours of video playback , 24 hours of audio playback , and 12.5 days standby time .
+3 The audio and video times are unchanged from the original iPhone .
+
+3 What else ?
+
+3 Since the latest iPhone will support the 2.0 software , additional new features will show up at launch and beyond , including contacts search , iWork document support , the capability to view PowerPoint attachments , bulk move and delete , a scientific calculator in landscape mode , parental controls , and support for 16 languages .
+
+3 You 'll also be able to use a graffiti-style application for entering characters in Asian languages .
+
+3 What 's missing ?
+
+3 Unfortunately , we hoped for an even larger bundle of features in this round .
+1 Apple still leaves multimedia messaging out of the mix along with voice dialing and video recording .
+
+3 We still do n't understand why Apple ca n't include these basic features , many found in even the cheapest and simplest cell phones .
+3 We were also hoping for a landscape keyboard , the capability to cut and paste , Flash support for the Safari Web browser , expanded memory , and additional Bluetooth profiles .
+
+3 Apple , you left us hanging in a big way .
+3 It 's also disappointing to hear that the dock is now sold separately for $ 49 , but we suppose that helped cut the price .
+3 No , you do n't need the dock , but it 's nice to have .
+3 Even the power adapter and the SIM card removal tool that now come in the box wo n't make up for its loss .
+
+3 Should you buy it ?
+
+3 If you 're an iPhone fence-sitter , now 's the time .
+3 The addition of 3G and GPS , the affordable price tag , and extra features from the iPhone 2.0 software update make the iPhone 3G a worthy prospect .
+
+3 Unlike the previous iPhone , which we liked and recommended with reservations , we 're much happier with what this new handset has to offer .
+
+3 iPhone 3G is n't perfect , but there 's a lot to like here and we approach the device with much anticipation .
+3 We 'll update this page with a full , rated review once we get our hands on the hardware .

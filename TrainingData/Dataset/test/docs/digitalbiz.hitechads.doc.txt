@@ -1,0 +1,85 @@
+Playing games without frontiers - CNN.com
+( CNN ) -- Just as consumers are becoming increasingly tech-savvy , so are the brands that target them .
+
+Puma calls sports fans with their favorite team ring-tone to connect them with 10 other fans every time their team scores .
+The Discovery Channel lets online adventurers encounter live sharks via GPS .
+A&amp ; E Television invites Facebookers to earn money by parking , legally or not , on their friends ' streets .
+Domino 's Pizza challenges YouTubers to hunt down the Saab convertible they can buy on eBay for $ 9.99 .
+
+But look behind the brands , and you 'll find the creative and technical engineers of these compelling ad campaigns , whose toolbox of ideas is overflowing .
+
+' The technology is just a vehicle to adapt to how people spend their time , and to be a part of that experience, ' says David Rosenberg , director of emerging media for veteran advertising giant JWT .
+
+One of JWT 's more spectacular campaigns took place on Manhattan 's 5th Avenue , home to the busiest New York branch of HSBC , 'the world 's local bank. '
+
+HSBC offered up its own real estate to transform the building 's storefront into a living theater , where actors would repeatedly perform the same scene -- a beauty contest , a yoga expert , crazy football fanatics -- in three different windows .
+
+Passers-by were invited to express their points of view on the scenes by texting via interactive SMS their personal reaction to what was going on in front of them , and these words were then flashed above the windows for all to read .
+Other people would then react to these words , perhaps at the same time posing for the provocative paparazzi .
+
+' There was a Web component as well, ' recalls Rosenberg , 'but it probably was n't as visceral as that experience , in a very localized way. '
+
+Game start-up
+
+The games people play today can be more or less complex , more or less branded , more or less interactive .
+
+' Social interaction is made out of people and their imagination , communication and desire, ' say Kevin Slavin and Frank Lantz , the co-founders of Area/Code , a New York-based start-up founded in 2005 .
+
+' You can play chess every single day and it will never get old .
+That 's because it 's a system that allows people to interact with people -- through the stylized interaction of games. '
+
+Area/Code 's most recent promotion , just launched in September 2008 , is the game Backchannel for MTV , in which players are simultaneous viewers of the live TV show 'The Hills .
+' As people watch the show , they type live comments on the site and score points depending on how many fellow viewers click on their humorous , irreverent or insightful 'tags. '
+
+' If you 're in the TV business , you either see [ the Internet ] as a threat--in which you have to compete for attention--or an opportunity , in which you can figure out how to get them to echo each other , make each other more meaningful, ' comments Area/Code .
+
+' The reality is that TV does something that no other medium in the world does--it gets 5 or 10 million people to do the same thing at the same time .
+The question is , how do you connect these people together ?
+That 's what the Internet is good for .
+The online world can take those 5 or 10 million people and connect them to each other to have experiences we 've never seen before. '
+
+Running meters and shark-spotting
+
+One of Area/Code 's most successful games is Facebook Parking Wars , named after the TV show that premiered on AETV , preceded by the social networking site on which it 's played , with more than 400,000 people signing up to play in two months .
+
+Not only do players get credit for parking fantasy cars on their friends ' streets , they can collect fines by ticketing illegally parked vehicles on their own streets .
+Some players reportedly even get up in the middle of the night to move their cars .
+
+One of Area/Code 's cult games is Sharkrunners , which features real sharks swimming wild in the sea to be 'encountered ' and studied by players at the helm of imaginary research boats .
+
+' No one came to us and said : 'We want to make a game that uses sharks with GPS receivers on their fins,' ' says Area/Code .
+' [ The Discovery Channel ] asked for help in making Shark Week bigger. '
+
+Other games have involved chasing both human and imaginary opponents through Manhattan intersections via GPS-equipped Boost Mobile handsets ; treasure-hunting through a city by scanning optic codes with Quest Wireless phone cams ; shooting and collecting mini purikura photo-stickers to earn points and become a Tokyo pop idol using Mobot image analysis technology .
+
+Blurring tangible and digital
+
+' People will look back at games produced between 1980 and 2000 or so , and think : Yes , it was strange , people used to play games that were trying to simulate the whole world right there on a computer screen , and they would play them alone, ' reflects Area/Code .
+
+' We love those games , but we 're interested in everything that comes after that. '
+
+It was this active interest that led to the birth of Area/Code three years ago .
+
+' It was before the Wii , before Guitar Hero , and it was before a mass-adoption GPS phone here in the U.S., ' say Slavin and Lantz .
+
+' But the steps that led to those innovations were clear to us .
+In 2005 , it was obvious that the most interesting developing technologies were those which blur the line between the tangible and concrete ( the area ) and the digital and dynamic ( the code ) . '
+
+They add : 'One thing we have n't worked with yet , but remain excited about , is RFID , when things start to connect with other things , or with people...'
+
+Snailnet
+
+Such is the value of real space , that even today 's hard-core Netizens are willing to forego the immediate gratification of real time -- swapping e-mail for 'snail mail. '
+
+Boredomresearch has been showing off its high-tech carrier snails equipped with 20-millimeter radio-frequency identity ( RFID ) disc tags for its RealSnailMail experiment .
+
+How it works : People e-mail a message to a dispatch center , which is then mechanically assigned to one of several gastropod 'agents, ' who eventually wanders across the 50-centimeter enclosure and drops it off on the other end , where another piece of hardware collects the message and promptly hurdles it back into cyberspace .
+
+' You understand that a diminutive mollusc will be burdened with the task of forwarding your message and have given reasonable consideration to the value of your message, ' state RealSnailMail 's terms of use .
+
+' You understand that a considerable time may elapse between sending a message and its receipt and have considered the implications of this for yourself and the recipient. '
+
+With some 6,000 e-mails in the queue , the current average delivery time for a message is 83.22 days .
+
+All that 's missing now is the branding .
+

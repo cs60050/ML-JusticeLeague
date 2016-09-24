@@ -1,0 +1,55 @@
+Map shows top CO2 producers in the world - CNN.com
+WASHINGTON ( AP ) -- There 's growing worry about global warming , but how much of it is the work of that power plant just outside town ?
+And if Congress limits heat-trapping greenhouse gases , will it affect utility and electric bills ?
+And who 's the biggest corporate culprit when it comes to climate change ?
+
+Answers to these questions may be only a couple of computer clicks away .
+
+A new interactive online database unveiled Wednesday provides maps , color-coded categories and detailed information about who is putting 10 billion tons of carbon dioxide into the atmosphere annually from power plants around the world -- about a fourth of it from the United States .
+
+The Web site , which includes information from 4,000 utilities and 50,000 plants , shows not only the biggest CO2 emitters , but also the facilities and companies that are most green , releasing little if any carbon .
+
+' We 're trying to provide complete , balanced information .
+It 's an open site, ' said David Wheeler , a senior researcher at the Center for Global Development , where he directed the creation of the massive database .
+
+Using an array of information filters , a user can find out how much CO2 comes from electricity plants in a particular city or county , in a congressional district , from a specific company , or an individual plant .
+
+Dubbed the Carbon Monitoring for Action database , or CARMA ( www.carma.org ) , it proclaims itself as 'the world 's best place for power-plant voyeurism. '
+
+And there is a bundle of interesting information .
+
+Australians produce 11 tons of CO2 for each of its people from their power plants -- the highest anywhere -- compared to 9 tons per person in the United States and 2 tons per person in China .
+
+But the United States has the most CO2 emissions ( 2.79 billion tons ) , followed by China ( 2.66 billion tons ) .
+China , which soon is expected to pass the United States , is home to three of the world 's five most CO2-polluting utilities .
+
+China 's Huaneng Power International leads all of the world 's power companies , releasing nearly 292 million tons of CO2 annually .
+That 's far more than Southern Co. and American Electric Power , the two biggest U.S. carbon emitters that each account for about 170 million tons a year , ranking sixth and seventh in the world .
+
+Such information provides a 'a vivid illustration that rich countries and developing countries must work together to overcome the challenge of climate change, ' said Wheeler , an expert on environmental economics .
+
+Wheeler said in an interview that the interactive database should be of interest not only to individual citizens , but also to investors , insurers and corporate executives as Congress moves closer to imposing limits on carbon emissions to address global warming .
+
+' Never before has this kind of detailed information been made available on a global scale, ' said Nancy Birdsall , president of the Center for Global Development , a think tank that examines how rich nations interact with developing countries .
+
+While the federal government keeps annual statistics on U.S. CO2 emissions , CARMA seeks to provide its Web site visitors more complete , worldwide data by expanding on the government 's numbers through independent research and extrapolations based on fuel use and electricity production .
+
+The database also strives to be consumer friendly .
+
+With a click of the computer mouse , one can see a map showing the top CO2 producers in the world and then move in closer to find information about the individual utility bringing electricity into your home .
+
+Each emitter has a color code from green ( the cleanest ) to blue , yellow , orange and finally red ( most polluting ) .
+The icons become larger the more CO2 a plant or company produces .
+A large red icon shows a plant producing a lot of electricity and a lot of carbon .
+A green one shows little if any carbon , often a nuclear power plant .
+
+Click on American Electric Power , the Ohio-based utility that owns 25 coal-burning power plants , and one sees a large red icon .
+It is the country 's second largest emitter of CO2 at 169,000 tons a year .
+Southern Co. , based in Atlanta , releases a little more CO2 , but its code is a mix of red and orange because of its use of nuclear energy along with CO2-producing coal .
+Duke Energy , 12th on the list of worldwide CO2 emitters , nevertheless gets an orange icon , also reflecting its ownership of nuclear power plants .
+
+But of most interest to consumers may be the 'digging deeper ' option that displays CO2 emissions by plants or companies in a region , state , congressional district , town or by ZIP code .
+The Ohio Valley , the Southeast and Texas rank high in CO2 emissions , reflecting heavy fossil fuel use , while the West Coast , where nuclear and hydroelectric power are in heavy use , has comparatively little CO2 pollution from power plants .
+
+Texas power plants account for the most CO2 ( 290 million tons ) of any state , and Vermont the least ( 437,000 tons ) .
+

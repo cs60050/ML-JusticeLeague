@@ -1,0 +1,41 @@
+New service helps callers avoid awkward cell-phone moments - CNN.com
+NEW YORK ( AP ) -- The old song had it right : Breaking up is hard to do .
+But a free new phone service called Slydial might make it easier to get through that and other awkward moments -- without actually having to talk to anyone .
+
+Slydial lets you connect directly with another person 's cell phone voice mail , bypassing the traditional ringing process that often results , sometimes disastrously , with someone picking up on the other end .
+
+Users call ( 267 ) SLY-DIAL from either a cell phone or a landline and are prompted to enter another person 's cell phone number .
+
+After playing a short advertisement -- unless users pay a subscription fee or 15 cents per call to skip ads -- Slydial puts callers directly into their target 's voice mail .
+
+Recipients should then get a voice mail notification , and sometimes they will see a caller 's number show up as a missed call , too .
+
+Gavin Macomber , co-founder of MobileSphere Ltd. , the Boston-based communications company behind Slydial , thinks it can be useful not only in the dating scene but in the hectic business world .
+
+' Everybody has gone through the scenario where they 've called somebody and just hoped they got voice mail so they did n't have to have a conversation, ' he said .
+
+Indeed , Nora Rubinoff , 45 , who runs an administrative support company , At Your Service Cincinnati Ltd. , has found Slydial helpful for both business and personal situations .
+She has left reminder messages for people one of her clients intends to interview .
+
+And when her husband travels to a different time zone for work , she can leave him a Slydial message without disturbing him at an odd time of day , she said .
+
+' It 's been really handy, ' she said .
+
+Macomber said the idea for Slydial came while MobileSphere developed the voice mail routing component of a service meant to lower the cost of international roaming on cell phones .
+
+The company rolled out a private test phase of Slydial in March and has added about 5,000 users since then .
+The service opened to the general public in a 'beta ' testing phase Monday .
+
+The ability to call straight into someone 's voice mail is not new .
+Most major cell phone carriers offer subscribers the option of sending voice messages to other people , but usually only to customers of the same wireless company .
+What 's different here is that Slydial makes it possible to do it with any major wireless carrier 's customer .
+
+There are constraints to this service .
+It can be used only in the U.S. right now , and generally wo n't work with prepaid cell phones .
+Also , sly dialers must have the caller ID feature activated on their phones , which Macomber said is meant in part to prevent people from using it to harass people undetected .
+
+It 's also not always super sly .
+Several test calls between cell phones made the recipient 's phone emit an abbreviated ring before leading to voice mail .
+That might make people think the person on the other end really wanted to speak -- and could result in a quick call back .
+Horror of horrors : A real conversation might ensue after all .
+
