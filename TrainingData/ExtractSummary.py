@@ -31,6 +31,7 @@ for filename in os.listdir("./training/docs"):
 		count+=1
 	except:
 <<<<<<< HEAD
+<<<<<<< HEAD
 		continue
 =======
 def extractSummary():
@@ -72,6 +73,9 @@ def extractSummary():
 if __name__ == "__main__":
     extractSummary()
 >>>>>>> cs60050/master
+=======
+		continue
+>>>>>>> parent of 5c870b7... sentences without stemming are also required for training
 =======
 		continue
 >>>>>>> parent of 5c870b7... sentences without stemming are also required for training

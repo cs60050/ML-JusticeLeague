@@ -26,6 +26,7 @@ def doPreProcessing(ip_doc):
 		elif(words[0]=="2"):
 			largesumm.append(words[1:])
 <<<<<<< HEAD
+<<<<<<< HEAD
 	return smallsumm,largesumm,fulldoc,docwithoutstemming
 =======
     ps = PorterStemmer()
@@ -52,6 +53,9 @@ def doPreProcessing(ip_doc):
                 largesumm.append(words[1:])
     return smallsumm,largesumm,fulldoc
 >>>>>>> cs60050/master
+=======
+	return smallsumm,largesumm,fulldoc
+>>>>>>> parent of 5c870b7... sentences without stemming are also required for training
 =======
 	return smallsumm,largesumm,fulldoc
 >>>>>>> parent of 5c870b7... sentences without stemming are also required for training
