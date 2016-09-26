@@ -7,7 +7,13 @@ for filename in os.listdir("./training/docs"):
 		ip_file = open("./training/docs/"+filename,"r")
 		ip_doc = ip_file.read()
 		ip_file.close()
-		smallsumm, largesumm, fulldoc = doPreProcessing(ip_doc)
+		smallsumm, largesumm, fulldoc, docwithoutstemming = doPreProcessing(ip_doc)
+		f = open("./DocsWithoutStemming/"+str(count)+"_doc.txt","w")
+		for sent in actualdoc:
+			for word in sent:
+				f.write(word+" ")
+			f.write(".\n")
+		f.close()
 		f = open("./FullDocs/"+str(count)+"_fulldoc.txt","w")
 		for sent in fulldoc:
 			for word in sent:
