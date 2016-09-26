@@ -17,15 +17,15 @@ def doPreProcessing(ip_doc):
 									  "." not in x and\
 									  "," not in x and\
 									  "-" not in x\
-									  , words))
-		docwithoutstemming.append(words[1:])
-		words = [str(ps.stem(word)) for word in words if word not in stopwords.words('english')]
+									  , words))	
+		words = [str(ps.stem(word)) for word in words if word not in stopwords.words('english')]	
 		fulldoc.append(words[1:])
 		if(words[0]=="1"):
 			smallsumm.append(words[1:])
 			largesumm.append(words[1:])
 		elif(words[0]=="2"):
 			largesumm.append(words[1:])
+<<<<<<< HEAD
 	return smallsumm,largesumm,fulldoc,docwithoutstemming
 =======
     ps = PorterStemmer()
@@ -52,3 +52,6 @@ def doPreProcessing(ip_doc):
                 largesumm.append(words[1:])
     return smallsumm,largesumm,fulldoc
 >>>>>>> cs60050/master
+=======
+	return smallsumm,largesumm,fulldoc
+>>>>>>> parent of 5c870b7... sentences without stemming are also required for training

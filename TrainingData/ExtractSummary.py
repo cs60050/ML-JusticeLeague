@@ -9,13 +9,7 @@ for filename in os.listdir("./training/docs"):
 		ip_file = open("./training/docs/"+filename,"r")
 		ip_doc = ip_file.read()
 		ip_file.close()
-		smallsumm, largesumm, fulldoc, docwithoutstemming = doPreProcessing(ip_doc)
-		f = open("./DocsWithoutStemming/"+str(count)+"_doc.txt","w")
-		for sent in actualdoc:
-			for word in sent:
-				f.write(word+" ")
-			f.write(".\n")
-		f.close()
+		smallsumm, largesumm, fulldoc = doPreProcessing(ip_doc)
 		f = open("./FullDocs/"+str(count)+"_fulldoc.txt","w")
 		for sent in fulldoc:
 			for word in sent:
@@ -36,6 +30,7 @@ for filename in os.listdir("./training/docs"):
 		f.close()
 		count+=1
 	except:
+<<<<<<< HEAD
 		continue
 =======
 def extractSummary():
@@ -77,3 +72,6 @@ def extractSummary():
 if __name__ == "__main__":
     extractSummary()
 >>>>>>> cs60050/master
+=======
+		continue
+>>>>>>> parent of 5c870b7... sentences without stemming are also required for training
