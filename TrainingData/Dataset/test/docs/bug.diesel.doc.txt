@@ -1,0 +1,64 @@
+Lab makes renewable diesel fuel from E. coli poop - CNN.com
+SOUTH SAN FRANCISCO , California -- Fossil fuels that keep our planet running -- oil , natural gas and coal -- were created from the decomposition of plants , plankton and other organic material over millions of years .
+
+Today , scientists all over the globe are working to create fuels with the same properties but without that pesky 100 million-year wait .
+And 'renewable petroleum ' is now a reality , on a small scale , in some laboratories .
+
+The biotech company LS9 Inc. is using single-celled bacteria to create an oil equivalent .
+These petroleum 'production facilities ' are so small , you can see them only under a microscope .
+
+' We started in my garage two years ago , and we 're producing barrels today , so things are moving pretty quickly, ' said biochemist Stephen del Cardayre , LS9 vice president of research and development .
+
+How does it work ?
+A special type of genetically altered bacteria are fed plant material : basically , any type of sugar .
+They digest it and excrete the equivalent of diesel fuel .
+
+Humans have used bacteria and yeast for centuries to do similar work , creating beer , moonshine and , more recently , ethanol .
+But scientists ' recent strides in genetic engineering now allow them to control the end product .
+
+' So these are bacteria that have been engineered to produce oil, ' del Cardayre said .
+' They started off like regular lab bacteria that did n't produce oil , but we took genes from nature , we engineered them a bit [ and ] put them into this organism so that we can convert sugar to oil. '
+
+The company is focusing on diesel fuel , but the microbes can be 'programmed ' to make gasoline or jet fuel .
+
+The bacteria used are a harmless form of E. coli. And the feedstock , or food for the microbes , can be any type of agricultural product , from sugar cane to waste such as wheat straw and wood chips .
+Choosing plants with no food value sidesteps one of the biggest criticisms of another synthetic fuel , corn ethanol , because critics say that corn should be used as food , not fuel .
+
+It takes a lot of microbe poop to fill a gas tank , however .
+Biofuel experts say that processes like those used at LS9 are scientifically viable but that there 's still a long way to go before they can address global energy needs .
+
+' Scalability is really the critical issue, ' said Robert McCormick , principal engineer at the U.S. Department of Energy 's National Renewable Energy Lab in Colorado .
+' If you 've got something that you can make work in a test tube , that 's good , but you 've got to be able to make it work on a very large scale to have an impact on our petroleum imports. '
+
+But del Cardayre says his product has other benefits over traditional fossil fuels .
+
+' What we 've done is make the same molecules from renewable sources , so that it can go into the existing infrastructure , be made domestically and in an environmentally friendly way .
+That 's the goal, ' he said .
+
+The LS9 product does not have the cancer-causing benzene that is in other fossil fuels and has far less sulfur , he said .
+
+LS9 President Bob Walsh says that using existing petroleum pipelines is crucial .
+Ethanol , for example , requires its own distribution system because it can corrode oil pipelines .
+
+' You ca n't put ethanol in a pipeline , [ and ] even your car needs some adjustments to it ; whereas the product we 're making is going into the existing system , and that 's a big difference, ' he said .
+
+LS9 expects to be in large-scale commercial production in three or four years .
+But del Cardayre is the first to admit that microscopic oil fields are not a silver bullet for the world 's energy woes .
+
+' I doubt we 're going to completely eliminate our dependence on oil , but we 'll certainly be able to supplement the amount of oil we need in the short term, ' he said .
+
+Although energy researchers are spending tens of millions of dollars in venture capital , McCormick believes that 'just making more ' is not enough .
+
+' I think that the answer to reducing our petroleum-import problem and reducing the carbon emissions from transportation is really threefold, ' he said .
+' It involves replacement fuels like biofuels , it involves using much more efficient vehicles than we use today , and it involves driving less. '
+
+One thing that McCormick and del Cardayre agree on is that energy research is a great place to be these days if you are a scientist .
+
+' The fun of the challenge from the science perspective is that you do have farmers and biologists and entomologists , and biochemists and chemical engineers , and process engineers and business people and investors all working to solve this , and it ranges anywhere from a political issue to a technical issue, ' del Cardayre said .
+
+' Honestly , I could n't think of a more exciting thing to work on as a scientist or technologist right now, ' said McCormick , a chemical engineer .
+' Part of the excitement comes from the fact that this is such a complex problem , it ca n't be solved by a farmer or an ag expert , and it ca n't be solved by a chemical engineer or a chemist .
+
+' We all have to pool our various talents and training and try to come up with a whole new system of producing energy, ' he said .
+' And the current energy price environment has made literally everyone interested in replacements for petroleum. '
+

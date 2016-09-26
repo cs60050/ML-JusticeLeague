@@ -1,0 +1,133 @@
+Synthetic biology inches toward the mainstream - CNN.com
+HONG KONG , China ( CNN ) -- As bioengineers continue to build things with the stuff of life itself , the rest of the world is slowly waking up to the power of synthetic biology .
+
+While students tinker away in labs making bacteria turn red or green , many more developed commercial enterprises are already working towards potentially revolutionary projects , such as making the components of renewable , portable fuels and medical treatments for epidemic diseases .
+
+It 's no wonder that venture capitalists are already knocking at their doors .
+
+What is synthetic biology ?
+
+In a nutshell , synthetic biology is the rational engineering of biological parts , devices and systems , by programming DNA to design and re-design organisms to do what we want them to do -- something like using a computer to rewire living things , and by extension , to create new ones .
+
+' Synthetic biology is just biotechnology done better , faster and cheaper,'sums up Talli Somekh of Musea Ventures , which he co-founded in 2007 in order to create and invest in new companies in the field of alternative energy .
+
+' There 's an element of irrational speculation about synthetic biology , because people seem to think that it 's something entirely new and revolutionary .
+But the truth is that it 's really just applying principles of disciplined construction to something that has for too long been a lab science. '
+
+' The goal is to make all of biology easier to engineer, ' says Drew Endy , assistant professor of bioengineering at Stanford University and president of the BioBricks Foundation ( BBF ) , a nonprofit organization dedicated to the 'open source ' development of synthesized biological parts .
+
+' Over time , the application space becomes anything that biology can manufacture .
+It 's like looking at an Apple computer in 1975 and saying , 'What do we use this for ?
+
+In the labs
+
+So far , ideas are n't lacking .
+But before we can expect pet cyborgs , a cure for cancer and the end of global warming , we need to take life one cell at a time .
+
+One petri dish of innovation is the iGEM ( International Genetically Engineered Machine ) competition , held every year by BBF since 2003 , in which student teams use BioBricks to design new biological systems that operate in living cells , as well as contribute new bricks to the registry .
+
+This year 's iGEM sees 84 teams of some 1,000 participants from 21 countries across Asia , Europe , Latin America and the U.S. , who will present their projects at the iGEM Championship Jamboree at the Massachusetts Institute of Technology on November 8-9 , 2008 .
+
+Among them , the HKUSTers , a team of post-graduate , undergraduate and high school students representing the Hong Kong University of Science and Technology , is engineering a 'gambling ' cell baptized the Randomizer , based on the principle of randomness in nature .
+
+When stimulated , the bacteria will turn either red or green in color , simulating the metaphorical flip of the coin .
+Using this binary logic , multi-digit random numbers can be generated .
+
+HKUSTers team leader Professor King L. Chow says the Randomizer uses about 12 existing BioBricks and will contribute about four or five more useful ones to the registry .
+Ultimately , one could imagine these new biological parts being applied to the creation of a living supercomputer .
+
+However , 'the cells do n't always behave like we want them to behave, ' Chow admits , describing the many trials and errors of working in the lab .
+
+' So you see , we still have a long way to go before creating entirely new organisms. '
+
+That 's still one small step for HKUSTers ; one potentially giant leap for bioengineering .
+
+Another application in progress is spider silk , currently being synthesized by a team led by Chris Voigt , assistant professor in the department of Pharmaceutical Chemistry at the University of California , San Francisco .
+
+' Spiders make threads that are stronger than steel , elastic , that can be stretched three times their length before they break, ' he says .
+
+' They have all these properties that we 'd like to harness , but you ca n't go to the spiders because they do n't make enough material .
+It 's also still very hard to genetically engineer spiders themselves .
+So you would like to take out the silk and maybe put in little pieces of protein to bind human cells , so that you could use this material to make a medical device .
+
+' You could imagine a pacemaker made out of silk .
+So you have a bacteria that grows very fast and produces a lot of material , which you can put into a big steaming vat and then collect the silk that comes off of it. '
+
+Biotech benefits
+
+Synthetic biology is already being applied to the biotechnology industry , which is divided into three sectors of white ( manufacturing , energy , materials ) , red ( medicine ) and green ( plant-based ) .
+
+Far beyond genetically modified organisms and commercial pet cloning , white biotech emerges as particularly lucrative .
+
+' The synbio movement is developing strategies to make biotechnology more cost-effective, ' points out Musea Ventures ' Somekh .
+' Applying engineering principles to biotech has the potential to allow it to economically cross over into biofuels , industrial chemicals and other areas where petroleum is dominant .
+As a result , the available market of biotechnology will increase from the billions to the trillions. '
+
+' The reason why synthetic biology is so important for industrial biology is because of its economics, ' he adds .
+' Biotech has been successful in human health because investors can get a return on the $ 100 million-plus they have to invest in the R&amp ; D stages of product development due to the fact you can sell a few grams for very high margins .
+In industrial biotech ( biofuels and chemicals ) , you are selling tons of product for very low margins .
+So we have to be much more capital-efficient in the early stages. '
+
+Red biotech is another emerging market with a fundamental human interest .
+
+Amyris Biotechnologies , which defines itself as 'a renewable products company devoted to creating a more sustainable world, ' has partnered with the nonprofit pharmaceutical Institute for OneWorld Health , Sanofi-aventis and the University of California , Berkeley , in a nonprofit initiative to develop a more reliable and affordable cure for malaria , following a $ 42.6 million grant from the Bill &amp ; Melinda Gates Foundation in 2004 .
+
+The Artemisinin Project aims to reduce the cost of antimalarial drugs by developing a second source of artemisinin , the treatments ' key ingredient .
+However , artemisinin must currently be extracted from the sweet wormwood plant in a complex and time-consuming process .
+
+Amyris bioengineers will take the genes out of the plant and cultivate them in yeast so that they grow more quickly and efficiently , while Sanofi-aventis will produce the drugs on a large scale .
+
+The German-based Geneart , spun off from a research group located at the University of Regensburg , launched on the gene synthesis market just a few years before the completion of the 13-year Human Genome Project ( which consisted primarily of identifying all the approximately 20,000-25,000 genes in human DNA ) .
+
+' When we started our company in 1999, ' recalls Geneart co-founder Marcus Graf , 'synthetic biology as a term did n't exist , [ especially on ] an industrial scale , but we knew that there was a great demand for rationally designed and swiftly synthesized genes .
+
+' After having read the 'human book ' it was necessary to give meaning to its content -- testing the genes and finding their functions , etc. However , the speed of sequencing by far outperformed conventional methods of gene cloning .
+The next generation of sequencing methods , which allow to fully sequence a human genome in just weeks , will generate an even greater demand for synthetic genes. '
+
+From biosafety to biosecurity
+
+Of course , tinkering with the stuff of life itself always tends to raise eyebrows , if not alarm bells , among the public .
+
+Common ethical issues include the safety of both the bioengineers who design the cells and the people who use the products ; the equity of access to biotechnology and the distribution of its benefits ; the morality of 'fooling around with Mother Nature ' ( notwithstanding activist groups such as 'Theologians for Stem Cells ' ) ; and finally the much-hyped security threat of bioterrorism .
+
+When it comes to biocriminal activity , however , Geneart 's Graf is not much worried for now .
+
+' We screen in a Din ISO 2001 certified process every gene ordered , every customer who 's ordering , and we are in close contact with law enforcement ( e.g .
+lists provided by our German authorities exclude customers from distinct countries , persons and institutions ) , ' he says .
+
+' Furthermore , export of certain materials outside of Europe require formal approval from our local authorities .
+Compliance with such regulations is strictly controlled by the regulators ( e.g .
+surprise visits ) .
+Non-compliance with these rules is liable to prosecution .
+
+' All future synthetic biology applications are cutting-edge science , and it is extremely unlikely that terrorists will rely on such hard-to-learn and hard-to-come-by techniques .
+Synthetic biology is more likely to attract Nobel prize winners than terrorists. '
+
+Yet so many new questions have already arisen from the exponentially evolving science of synthetic biology that for the first time this year , the Fourth International Meeting on Synthetic Biology ( SB4.0 ) , held at HKUST from October 10-12 , 2008 , invited not only the scientific community but also those outside and around it to discuss these specific issues .
+
+Investors &gt ; bioengineers &lt ; students
+
+' The synthetic biology community is very energetic and collaborative, ' says Karl Handelsman of CMEA Ventures , whose mission is to provide venture capital funding to innovative start-ups in life sciences , technology and energy .
+' It 's a utopian nerd heaven. '
+
+Given all the potential of synthetic biology 's applications , it 's no wonder the investors outnumber the entrepreneurs .
+
+' People starting companies do n't have to make pitches, ' observes Regis Kelly , director of the California Institute for Quantitative Biosciences ( QB3 ) , located in the U.S. venture capital haven that is the San Francisco Bay Area .
+
+' Now there is so much interest by investors that it 's hard to assess exactly how many companies are out there .
+There may be four companies under the radar for every one on the radar. '
+
+Meanwhile , new students from diverse disciplines are flocking to the field .
+
+' Biotechnology is cool .
+Synthetic biology is cool, ' confirms Endy , synbio 's most outspoken advocate .
+' They want to come help make stuff .
+The applications are important .
+There 's a lot of potential to help the world .
+The challenge is giving them the right lessons , curriculum , mentoring , so that they can quickly get up to the point where they can do good work , and teach still more people. '
+
+Today , synthetic biology 's biggest obstacle is not ethics , not funding , not industry , and certainly not interest -- it 's qualified , productive human capital capable of developing the community and advancing the technology .
+In more ways than one , the keyword is 'constructive. '
+
+The rest of the world should n't be disappointed .
+

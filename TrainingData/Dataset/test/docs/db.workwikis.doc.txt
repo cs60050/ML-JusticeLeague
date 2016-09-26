@@ -1,0 +1,59 @@
+Putting Facebook and Twitter to work - CNN.com
+BANGKOK , Thailand ( CNN ) -- 'Why ca n't I do this at home ? '
+
+Employees in the office used to ponder this question about corporate technology not easily available to consumers .
+
+Today the question , usually asked from home or a cafe , is : 'Why ca n't I do this at work ? '
+
+Innovative , user-friendly offerings -- Skype , Facebook , Twitter , mash-ups , YouTube , wikis , and the like -- take root and thrive as consumer offerings .
+
+Corporate IT departments meanwhile often seem oblivious to their potential usefulness , even as workers wonder at their absence .
+But increasingly such technologies are being used for business .
+
+Partly this is because enterprise versions have emerged with fancier security features .
+And partly it 's because as the consumer-side versions keep growing , new users continue to come from within small companies -- or even large enterprises , often to the horror of security-conscious IT departments .
+
+Twitter , the popular micro-blogging service , has seen the emergence of small copycat services focused on businesses .
+
+Yammer , for instance , claims to have better security than the free Twitter , and it charges a small per-head fee .
+
+Users , rather than answering the Twitter question of 'What are you doing ?
+' for anyone to read , answer 'What are you working on ?
+' for colleagues only to read .
+
+Wikis , online pages that any user can edit , surged in popularity among consumers thanks partly to the online encyclopedia Wikipedia .
+Not long after businesses hopped aboard with tools geared for them .
+
+One of those , PBwiki , has seen the number of individual business wikis created with it jump to well over 40,000 , up from less than 20,000 a year ago and only about 5,000 two years ago .
+
+A Los Angeles design firm called The Groop , which uses PBwiki for creative collaboration among teams and clients , claims to have realized $ 1 million in annual productivity gains with it .
+
+On the social networking side , Facebook and MySpace became household names seemingly overnight .
+
+This year businesses are expected to spend more than $ 250 million on social networking tools geared towards them , from vendors like Awareness , Communispace , and Jive Software , according to research firm Forrester .
+
+And increasingly vendors offer companies suites of Web 2.0 technologies that have emerged on the consumer side .
+
+For instance HiveLive lets employees create and control blogs , wikis , mash-ups and so on within business social networks .
+
+Skype , the online phone service bought by eBay , noticed that many of its customers were small businesses .
+To entice more of them , it created a business version of its software with improved security and a 'control panel ' application for central management of Skype credit and numbers .
+
+Last month Google launched a YouTube-like video sharing service for businesses .
+The idea is that employees can share videos amongst themselves in a secure setting .
+A CEO could broadcast a message , for instance , or a technician could post a how-to video .
+
+The iPhone , inevitably , is also forcing its way into the work force .
+' The best phone for business .
+Ever ' claims the typically bomb-throwing ad copy from Apple .
+
+Research firm Gartner foresees consumer adoption driving more technologies into enterprises over the coming years .
+
+Among them are desktop video-conferencing , virtual worlds , 3-D controllers , and augmented reality .
+
+Gartner analyst Jackie Fenn suggest IT departments should make it their ongoing strategy to take advantage of such consumer technologies , rather than bump into them on a case-by-case basis .
+
+Besides , there 's a nice upside to this approach for IT workers , as long as security and other challenges can be overcome .
+
+As anyone who 's played around on Facebook , YouTube or an iPhone can attest to , the consumer side is where all the fun stuff is .
+

@@ -1,0 +1,106 @@
+5 things your car will finally do in 2020 - CNN.com
+( Mental Floss ) -- We 'll spare you the far-future posturing and flying-car jokes , but the truth is -- for the 200 million automobile owners in America , the future looks bright .
+In fact , we 've already made some pretty impressive headway .
+The 2008 Mercedes S-Class can change lanes on the highway automatically , and both the Toyota Prius and the Lexus LS-460 can self-park at the push of a button .
+
+But that 's just a drop in the bucket compared to what 's in the works .
+With eyes wide and mouths agape , we peeked under the curtain at the cars of the future .
+Here 's what we can tell you about what you 'll be driving in 2020 .
+
+Your car will predict the future
+
+Self-parking cars are great and all , but there 's a big difference between features of convenience and the kinds of safety technologies on the horizon .
+We 're talking about cars that can see into the future and react on a dime -- whether that means detecting a person crossing the street or swerving to avoid oncoming traffic .
+
+There 's no doubt the artificial intelligence required to protect you from those dangers is incredibly sophisticated , but it 's becoming more widely available every day .
+Vehicles equipped with hundreds of sensors will be able to monitor their surroundings , both from a short-range perspective ( to detect things like barriers and stop signs ) and a long-range perspective ( to detect things like a truck barreling toward you ) .
+But they wo n't be working alone .
+
+Cars of the future will also utilize video monitors located at intersections .
+Currently planned for many towns and cities across the United States , these monitors will feed data to your car over a wireless network .
+From as far as 30 miles away , they 'll be able to transmit video imagery right to your dashboard .
+So , if you did n't see that pedestrian walking into the street , the video system would know where you were , know about the pedestrian , and warn you to pay attention .
+
+It 's similar to Google 's new Street View maps system .
+Already available in larger cities like San Francisco and New York , the application shows fluid , 360-degree video images of nearly every block in the area .
+And while it 's only accessible from computers now , similar real-time images will soon be available right on your dash .
+
+Taking the concept one step further , engineers also plan to equip cars with computer processors that can analyze these kinds of video feeds to assess abnormalities in traffic .
+So rather than just warning you of an upcoming obstacle in the road , cars will use the data to deploy airbags at just the right location within the vehicle .
+Or , they could decide to take over the steering when needed .
+
+Basically a smarter version of the existing Electronic Stability Control feature ( available on several luxury car models now ) , the cars will monitor weather and traffic , and adjust tire speeds to make sure you stay on the road and do n't flip the vehicle .
+How long 'til everyone on the block has one ?
+The system will be required on all new U.S. cars for the 2012 model year , but you should expect to see it even sooner than that .
+
+Your car will talk to the road and the road will talk back
+
+It 's one thing to have a car that senses other vehicles , but something else entirely to have the road itself know where your car is at all times .
+To make that possible , city governments and automakers are joining forces to launch new Dedicated Short Range Communications ( DSRC ) systems .
+Using short-range wireless signals , vehicles will be able to communicate not only with each other , but with all the infrastructure on the road .
+
+Transportation agencies in cities across America currently have plans to install DSRC technology at major intersections and high-accident areas .
+In response , major auto manufacturers will offer DSRC support for their cars .
+
+The communication network will monitor where cars are traveling , as well as read traffic-light information and road-sign sensors .
+With both cars and roadways enabled , formerly unimaginable safety benefits will become a reality .
+For instance , ambulances will be able to trigger upcoming traffic lights to change from red to green .
+
+But there are plans to go even further .
+According to DaimlerChrysler , old satellites ( accurate to about 3 feet ) could be replaced with much more powerful Global Positioning System ( GPS ) satellites , which could pinpoint your vehicle to a few centimeters .
+And while there are only 30 active GPS satellites in space today , engineers hope to have as many as 50 in the future .
+
+The new system will be able to track weather conditions and suggest alternate routes .
+For example , you could avoid a tornado in Kansas or damaging hail in Fargo , or loop around Chicago traffic using real-time data that 's continually updated .
+
+Your car will take itself into the shop for maintenance
+
+Having wireless networks set up along the roadways -- such as those necessary for seeing images of upcoming intersections -- translates to endless possibilities for cars and drivers in the future .
+Example : Imagine passing a maintenance station that remotely signals your in-car navigation system that it 's time for an oil change .
+Better yet , it could go ahead and wirelessly upgrade your car 's software modules or check the performance of its safety sensors .
+
+Perhaps even more exciting are the possibilities for electric hybrids .
+Once electric cars outnumber gas-engine cars , satellite-based wireless power systems could recharge vehicles from space .
+How 's that possible ?
+The satellites would gather solar energy from space and then transmit the power to a receiver on the vehicle via a wireless signal .
+It would work the same as a wireless computer network , except the signal would carry energy instead of data .
+
+When you drive through McDonald 's , your car will be debited , not your VISA
+
+Microprocessors are already embedded into many parts of an automobile -- from an engine 's control-valve timing system to the seat controls .
+So why not have a microprocessor that manages financial transactions ?
+Several states already offer special debit cards that mount to your windshield as you pass through a toll , but those are primitive compared to what 's to come .
+
+In the future , when you pull into the drive-thru at a fast food restaurant , a local Wi-Fi network will be able to communicate with your vehicle by way of an encrypted wireless signal .
+In other words , after you order your food , the car will automatically make the financial transaction .
+And the electronic signature ?
+It 's likely that the navigational systems in your car will have expanded beyond route planning and safety warnings into something involving a signature pad that would allow you to type in a passcode ( or use a fingerprint or eye retina scan ) as an electronic signature .
+
+Once the infrastructure is in place , your car will become like a mini-ATM for drive-thru establishments .
+Of course , whether or not that 's a good thing for your budget remains to be seen .
+
+Go ahead , take a nap .
+Your car will drive itself
+
+Futuristic cars tricked out with their own ATMs and self-maintenance features sound nice , but for many engineers , that 's just the tip of the iceberg .
+The real holy grail ?
+A fully automated , driverless car .
+
+Shining a big spotlight on such efforts is DARPA ( the Defense Advanced Research Projects Agency ) , a Department of Defense organization aimed at perfecting the robotic technology needed for safe , autonomous military vehicles .
+
+In 2005 , Stanford robotics expert Sebastian Thrun won the DARPA Grand Challenge with his autonomous car , Stanley .
+Although the competition is aimed at developing machinery to protect soldiers , Thrun believes the technology will reach civilians sooner than you might think .
+And driverless cars , he believes , could save thousands of lives each year .
+
+In June 2007 , Thrun 's new robotic roadster , Junior , completed several test runs in preparation for the DARPA Urban Challenge ( scheduled for November 2007 ) .
+Although Junior never went faster than 15 mph , it made a three-point U-turn and navigated through a four-way stop .
+That 's right ; Thrun is getting close to achieving a fully automated , road-ready car .
+
+Where could this lead ?
+Well , a highway system for starters -- say , from San Francisco to Los Angeles -- for driverless vehicles only .
+Using a wireless signal , barriers on either side of the road could communicate with cars to keep them on track .
+And vehicles could simply use older cruise-control technology to maintain steady speeds .
+
+Conceivably , this would allow drivers to sleep through long stretches of highway -- or at the very least read the morning paper and drink their coffee .
+Another advantage is that these routes could have less restrictive speed limits -- likely well over 100 mph -- which could redefine the morning commute for many Americans .
+
