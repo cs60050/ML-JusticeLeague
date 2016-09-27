@@ -18,10 +18,12 @@ def _get_similarity(s1, s2):
         if s2[i]!='0':
             len_s2=len_s2+1
         i=i+1
+    if len_s1==0 or len_s2==0:
+        return 0
     log_s1 = _log10(len_s1)
     log_s2 = _log10(len_s2)
     if log_s1+log_s2==0:
-        return 1
+        return 0
     return common_word_count / (log_s1 + log_s2)
 
 def summarize(sentences, ratio=0.2, words=None, language="english", split=False, scores=False):
