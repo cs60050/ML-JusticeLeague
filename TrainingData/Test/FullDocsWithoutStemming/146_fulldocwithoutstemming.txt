@@ -1,38 +1,56 @@
-Inaugural conundrum : controlling the crowds .
-WASHINGTON CNN The 1 to 2 million people expected to pour into downtown Washington for inaugural festivities will pose major challenges for the city for law enforcement and for the attendees themselves .
-Unprecedented numbers of Americans are planning to join us in Washington Barack Obama said Wednesday in remarks released by the Presidential Inaugural Committee .
-That will mean long lines a tough time getting around and most of all a lot of walking on what could be a very cold winter day .
-There is the potential for a lot of frustration .
-Members of the general public will be funneled through metal detectors and other security screening to view the inaugural parade along Pennsylvania Avenue .
-The checkpoints will open at 7 and are expected to be closed by 10:30 when the parade route reaches its capacity of to spectators .
-The overflow will be directed to the National Mall .
-To systematically and calmly move people from the parade area to the mall Washington police will have personnel moving through the crowd distributing maps and directions .
-People who want to avoid some of the hassle can go directly to the mall area where security checks will not be as intense .
-They can not camp there overnight but can stand or sit in small chairs to stake out a space according to a police spokesman .
-For the first time the entire mall will be open for inaugural spectators .
-It will hold about 20 giant screens showing the day ceremonies .
-Those screens and loudspeakers as well as text messages will all be used to communicate with the crowd if there is an emergency .
-Visitors are being encouraged to sign up ahead of the event to receive text alerts on their mobile devices .
-Information is my best friend says Chief Cathy Lanier of the Metropolitan Police Department .
-Experts agree communication is essential to keep a crowd calm .
-Hani Mahmassan a crowd control expert from Northwestern University has briefed a wide array of security agencies involved in the inauguration on his studies of the annual Hajj pilgrimage made by millions of worshippers to the holy Saudi Arabian city of Mecca .
-People have learned from the mistakes that have been made there he says .
-He notes for instance that stampedes have been caused by opening the gates to a mass of people all at once .
-By trying to avoid these situations I think one can minimize the negatives at these events he says .
-Crowds could also complicate law enforcement efforts to do its job .
-If agents and task force officers are responding to an incident avenues for them must be created said FBI Assistant Director Joe Perschini .
-Horses are among the most effective crowd control tools and they will be used to help disperse crowds at the inauguration if needed .
-We will have more than enough horses to handle anything that occurs says Stacey Collins commander of the United States Park Police Horse Mounted Unit .
-The weather is not expected to affect the animals .
-We patrol in all weather .
-The only thing that will really stop us from patrolling is ice or either extreme heat or if it is so cold that it is not safe to be out .
-But we have more than enough equipment to keep us warm and the horses comfortable Collins tells CNN .
-Washington Police Chief Lanier says she believes law enforcement is ready for almost anything .
-Nobody has a crystal ball says Lanier adding I think that we have planned through every potential situation that we can think of .
-The capital city is used to large crowds and Lanier thinks that experience will help .
-The officers are very good at being authoritative and communicating large with crowds .
-I think that is the best chance we have the long history and experience we have with large crowds .
-But it is really going to be everybody being on their toes and just really trying to move those crowds .
-Planners insist they are not trying to scare people away with the tight restrictions and ominous warnings .
-Our efforts are to make sure people are safe .
-We like for as many people to come as want to come Secret Service spokesman Malcolm Wiley tells CNN .
+CES preview : Touting tech in a brutal economy CNN.com .
+LAS VEGAS Nevada -LRB- CNN -RRB- -- As 130,000 techies converge on Las Vegas this week for the 42nd annual International Consumer Electronics Show they 're encountering an industry that 's anxious about marketing high-tech gadgets in a tightwad economy .
+With many Americans struggling to pay bills find jobs and even avoid foreclosure it may seem like an extravagance to spend hundreds of dollars on a laptop or a digital camera .
+But financial fears also are causing consumers to spend more time at home where they still want to be entertained .
+Industry observers believe this nesting trend could sustain demand for products -- Blu-ray players stereos video games cheap computers -- that brighten the family room while easing the sting of canceling that Disney World vacation .
+We 're about to experience a renaissance in in-home entertainment said Scott Steinberg publisher of DigitalTrends.com .
+History proves that even during times of recession people are willing to invest heavily in great escapes and products that take their mind off the concerns and vagaries of everyday life .
+That being said consumers are becoming smarter about how they spend their money he added .
+This year 's mindset will be less about luxury than convenience and a specific gadget or technology 's pure ability at the end of the day to get the job done .
+Watch some of the gadgets already getting attention .
+With an uneasy eye on the economy tech companies seem to be scaling back expectations for CES which kicks off officially on Thursday .
+Attendance will likely be down about 8 percent and few blockbuster announcements are expected .
+Industry heavyweights also are downsizing the usual slate of lavish corporate parties that in 2006 saw the Foo Fighters gigging for Motorola and Intel hosting The Black Eyed Peas .
+The pre-buzz has really been a lot quieter than it 's been in recent years said Kent German a senior editor at CNET.com who is attending his fifth CES .
+German believes more tech companies are choosing to launch products at other times of the year when they do n't have to compete for attention .
+At CES there 's just so much noise he said .
+I can see companies saying Let 's do it -LRB- another time -RRB- on our own terms .
+Even so as the biggest annual showcase of new tech products CES will always make headlines .
+After all past shows have introduced the world to the CD player and the plasma TV .
+This year 's trade show which wraps Sunday features 2,700 exhibitors including the CES debuts of such marquee companies as Blockbuster Electronic Arts Mattel and Verizon Wireless .
+Tech observers also are curious to see Internet giant Cisco Systems launch its first-ever line of consumer-electronics products Palm unveil its long-delayed Nova operating system and Microsoft CEO Steve Ballmer offer an early preview of Windows 7 .
+It 's not going to be exactly the same .
+Attendance is going to be down PC Magazine editor Dan Costa told CNN .
+But it 's still a massive show .
+And there 's going to be a lot of news there .
+iReport.com : Are you excited about CES ? .
+So what trends and products will be making news most often at CES ? .
+Based on a scouring of tech blogs and interviews with industry observers here 's a brief roundup of what will be hot in Vegas this week : .
+Netbooks In a weak economy these small and cheap laptops will continue to be popular .
+Already loaded with Wi-fi webcams and other features these ultra-portable computers will soon come with GPS and touch screens as well -- all for prices under $ 500 .
+Look for a new wave of them at CES .
+Thin OLED TVs .
+You 've heard of LCD and LED -- now meet OLED which stands for organic light-emitting diode and creates a gorgeous picture .
+For now they 're also way too expensive -- Sony 's XEL-1 the world 's first OLED TV costs $ 2,500 for an 11-inch screen -- but they 're cool to look at .
+The screen panel on the Sony model is only 3 millimeters thick .
+Sony has showcased its OLED TVs at CES before but expect to see larger-size prototypes from them and from Samsung who 's said it plans to show its version of the technology as well said CNET news reporter Erica Ogg .
+Mobile devices .
+Touch screens once limited to high-end smartphones such as Apple 's iPhone are filtering down to mid-range devices as well .
+Cell phone manufacturers also are increasingly building phones that shoot sharper photos and better video .
+The biggest buzz might be building around Palm -LRB- remember the Palm Pilot ? -RRB- .
+which is looking to regain relevance with the launch of an overhauled -- and much-hyped -- Nova operating system for its mobile phones .
+I 'm very interested to see what Palm has to say said CNET 's Ogg .
+The company really needs a hit -- it has fallen so far behind its competitors like RIM and Apple in terms of smartphone innovation that Palm really has to hit this one out of the park .
+Wireless home electronics .
+Will this mark the year we can finally say goodbye to that cumbersome tangle of wires behind our TVs and stereos ? .
+Probably not but we 're getting there .
+Interconnected smartphones PCs laptops media extenders video game consoles and digital music players are quickly infiltrating the mainstream consciousness and modern home said Steinberg of DigitalTrends.com .
+I would n't go so far as to say that the wireless revolution is completely in full swing but it 's definitely patiently waiting its turn at bat he added .
+All the market lacks at the moment is standardization and a core catalyst -- a single unifying code of conduct that enables media of all sorts to play well together on devices of all sorts .
+More green products .
+Motorola is rumored to be launching a phone made from recycled tech waste .
+And at least several manufacturers are promising to unveil pioneering environmentally safe batteries -- including one made without lithium or lithium ion .
+Downloadable video players .
+We 're going to see a lot of devices that offer downloadable video be they Blu-Ray players -LRB- or video game consoles -RRB- said Costa of PC magazine who believes prices of Blu-ray players will keep dropping .
+All these devices can download video over the Internet some of it in HD quality .
+That 's the type of device we 're going to see a lot more of and it makes perfect sense when people are looking to nest -LRB- at home -RRB- .

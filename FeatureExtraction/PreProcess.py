@@ -1,9 +1,9 @@
 from nltk.corpus   import stopwords
 from nltk.tokenize import sent_tokenize, word_tokenize
-from nltk.stem import PorterStemmer
+from nltk.stem.snowball import SnowballStemmer
 
 def doPreProcessing(ip_doc,ip_docWithoutStemming):
-	ps = PorterStemmer()
+	ss = SnowballStemmer("english")
 	fulldoc = []
 	lengths = []
 	sentencesList = []
@@ -13,17 +13,17 @@ def doPreProcessing(ip_doc,ip_docWithoutStemming):
 		if(sent != "."):
 			tokens =  word_tokenize(sent)
 			words = [w.lower() for w in tokens]
-			words = list(filter(lambda x: "'" not in x and\
-										  "`" not in x and\
-										  "." not in x and\
-										  "," not in x and\
-										  "-" not in x and\
-										  "?" not in x and\
-										  ":" not in x and\
-										  "!" not in x and\
-										  ";" not in x\
+			words = list(filter(lambda x: x != "'" and\
+										  x != "`" and\
+										  x != "." and\
+										  x != "," and\
+										  x != "-" and\
+										  x != "?" and\
+										  x != ":" and\
+										  x != "!" and\
+										  x != ";"\
 										  , words))
-			words = [str(ps.stem(word)) for word in words if word not in stopwords.words('english')]
+			words = [str(ss.stem(word)) for word in words if word not in stopwords.words('english')]
 			length = len(words)
 			fulldoc.append(words)
 			lengths.append(length)
