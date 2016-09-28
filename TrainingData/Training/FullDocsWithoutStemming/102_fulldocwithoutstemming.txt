@@ -1,48 +1,22 @@
-Asus laptop loaded with drive .
-CNET The Asus M70 is the most fully loaded laptop we seen in a long while .
-Aside from its massive terabyte of space enough to hold a few hundred movies or a few hundred thousand MP3s the multimedia system incorporates a drive and a display plus an HDMI port TV tuner and stereo sound .
-Given its full feature set the M70 $ price tag seems like a steal especially compared with the $ Acer Aspire 8920 which offers similar features and an display but lacks the storage space and connections of the M70 .
-A more casual media enthusiast could be satisfied with the HP Pavilion dv9700t which offers similar features though with a display less space and no TV tuner for nearly $ 500 less than the Asus .
-But the M70 offers the ultimate feature set for film buffs file hoarders and others who want their laptop to serve triple duty as a computer media library and home theater .
-Make no mistake : The Asus M70 will take up a significant footprint on your desk or TV stand .
-It is both larger and heavier than HP desktop replacement the Pavilion dv9700t but still a touch more compact than the Acer Aspire 8920 which incorporates an screen for viewing HD content .
-And weighing pounds without the AC adapter the M70 is traveling anywhere except maybe from the living room to the bedroom .
-When it comes to aesthetics the Asus M70 has a look that should coordinate well with your living room electronics .
-Its reflective black lid features a subtle horizontal strip design and the glossy gray keyboard deck is likewise attractive .
-Chrome accents around the keyboard and white status LEDs on the interior add to the upscale look .
-The Asus M70 includes a display with a sharp x1 native resolution .
-That resolution pairs well with the laptop drive and affords plenty of real estate for viewing multiple windows side by side .
-In addition to an ambient light sensor that automatically adjusts screen brightness the M70 incorporates Asus Splendid Video Intelligence Technology which adjusts contrast brightness and color saturation according to your application .
-With the touch of a button users can toggle among Splendid settings that are optimized for gaming movies pictures ordinary desktop use and use in dark environments .
-It seems like a gimmick but we found the presets did make a difference and we appreciate that we did have to fuss with the control panel in order to get decent settings for watching movies or surfing the Web to name a few examples .
-Above the screen sits a rotating Webcam that lets you take pictures on either side of the laptop lid .
-Like almost all desktop replacements the Asus M70 incorporates a comfortable keyboard with a numeric keypad .
-Above the board sit four buttons that toggle various settings : the Power4Gear Extreme key toggles among modes ; a touch pad lock key quickly turns the touch pad on and off ; a Splendid key switches among the display mode settings discussed above ; and a final key launches the media player .
-The keyboard deck is otherwise barren save for a fingerprint reader nestled between the mouse buttons .
-The Asus M70 touch pad becomes a media control panel with a touch of the Mode button at the top right of the pad .
-In ordinary mouse mode the pad is dark gray but switching to Multimedia mode reveals glowing white buttons for play stop track forward\/back adjust backlight brightness and mute .
-There are also two programmable application launch buttons and the scroll zone along the right side of the pad becomes a handy volume slider .
-It not the first time we seen controls embedded into the touch pad Toshiba has incorporated a control panel into some models of its Qosmio line but it the first time we found them useful .
-Of course if you using an external mouse you can leave the pad in Multimedia mode all the time .
-Pretty much any connection you could dream of can be found around the M70 case .
-S\/PDIF out ? .
-Check .
-in ? .
-Check .
-drive with so you can watch movies on a TV ? .
-Check and check .
-Asus also includes a mini TV antenna for use with the M70 internal TV tuner though the company oddly neglects to include a Media Center remote .
-And if the laptop massive space just is enough for you the M70 includes an eSATA port good for hooking up external SATA hard drives .
-Also worth noting are the M70 four stereo speakers plus subwoofer which produce full balanced sound .
-The Asus M70 is available in a range of configurations from a $ basic multimedia system without a drive or display to a fully loaded $ entertainment powerhouse .
-We tested the latter which includes a processor near the top of Intel Core 2 Duo line and ATI Mobility Radeon HD3650 graphics .
-The midrange graphics card has some lesser specs than many gaming enthusiast cards but it does incorporate AMD Unified Video Decoder which is designed to lighten the processing load on the CPU when displaying HD video .
-Because the M70 ships with the version of Windows Vista it only capable of accessing 3GB of its generous 4GB RAM allotment ; it would have made more sense to ship with the version of Windows so that last 1GB of RAM was sitting dormant .
-On the Multimedia multitasking portion of CNET Labs performance benchmarks the M70 fell in line with other desktop replacements such as the HP Pavilion dv9700t .
-On our Photoshop test the M70 fell behind the Gateway FX and the Acer Aspire 8920 though the gap is small enough that it not likely to be noticeable during typical multimedia use .
-As evident from the results of our Unreal Tournament test the M70 is really the best choice for gamers ; its frame rates though adequate for casual gaming were no match for the but Gateway FX .
-We hardly expect such a massive system to perform well on our battery tests .
-However the Asus M70 lasted an impressive 2 hours 29 minutes on our taxing DVD drain test .
-That battery life would be admirable on a smaller laptop and is downright impressive for a desktop replacement with such a large screen .
-Asus backs the M70 with a generous warranty and offers online help and phone support .
-The company Web site includes the expected driver downloads and a brief FAQ but lacks useful features such as user forums or the chance to chat in real time with a technician .
+FEMA food kits may contain tainted peanut butter CNN.com .
+-LRB- CNN -RRB- -- Food kits recently distributed as part of a disaster relief effort in Kentucky and Arkansas may contain peanut butter contaminated with salmonella linked to a nationwide outbreak the Federal Emergency Management Agency said Wednesday .
+Commercial meals kits manufactured by Red Cloud Food Services Inc. under the Standing Rock label have been provided to disaster survivors in impacted communities and these kits may contain peanut butter which is part of the precautionary national recall underway in accordance with the U.S. Food and Drug Administration FEMA said in a written statement .
+Though the kits do not all contain the same main course they do contain packets of peanut butter the agency said .
+People who have received commercial meal kits are asked to inspect the kits in their possession and immediately dispose of any peanut butter packets it said .
+Jay Blanton spokesman for Kentucky Gov Steve Beshear said late Wednesday : We just received this information from FEMA .
+Tonight out of an abundance of caution we are in the process of finding alternative sources of food for people in shelters .
+The Kentucky National Guard is starting to notify people who 've already received the -LRB- meal kits -RRB- or might be getting one .
+Blanton estimated that 6,000 to 7,000 people remained in shelters primarily in western Kentucky .
+Of officials reactions to the salmonella warning he said : We 're pretty resilient .
+We 've had a lot thrown in our way and we 're coming through it .
+FEMA has been working closely with us and they assure us this is a precautionary measure .
+The meals were sent in the wake of President Barack Obama 's federal disaster declarations for Kentucky and Arkansas after they were hammered last week with rain ice and snow .
+No one at Red Cloud Food Services based in South Elgin Illinois responded immediately to e-mails .
+The meals were sent in the wake of President Barack Obama 's federal disaster declarations for Kentucky and Arkansas after they were hammered last week with rain ice and snow .
+Last month the Food and Drug Administration linked a nationwide outbreak of salmonella poisoning that has sickened more than 500 people and may have killed eight others to peanut butter and peanut paste produced by the Peanut Corporation of America at its plant in Blakely Georgia .
+FDA said PCA could have distributed contaminated product to more than 100 companies for use as an ingredient in hundreds of products including cookies crackers cereal candy and ice cream .
+Federal authorities have initiated a criminal investigation into the company .
+In a written statement PCA said Wednesday that federal and state regulators took part last year in regular visits and inspections of the Blakely facility .
+Independent audit and food safety firms also conducted customary unannounced inspections of the Blakely facility in 2008 it said .
+One gave the plant an overall superior rating and the other rated the plant as Meet or Exceeds audit expectations -LRB- Acceptable-Excellent -RRB- ratings .
+Unfortunately due to the nature of the ongoing investigations we will not be able to comment further about the facts related to this matter at this time .
