@@ -3,13 +3,15 @@ from PreProcess import doPreProcessing
 from VectorSpaceModel import convertToVSM
 from TF_ISF import calcMeanTF_ISF
 from tRank import modifiedSummarizer
+from wordNet import wordNetFeature
 from nltk import pos_tag
 
 # Feature Vector -
-# Features - [ Mean_TF_ISF, Sentence Length,  Sentence Position,   textRank,   ProperNouns         ]
-# Indexes  - [     0      ,        1       ,          2        ,   3       ,   4                   ]
+# Features - [ Mean_TF_ISF, Sentence Length,  Sentence Position,   textRank,   ProperNouns  ,  wordNet       ]
+# Indexes  - [     0      ,        1       ,          2        ,   3       ,   4            ,  5		     ]
 
 def extractFeatures(ip_doc,ip_docWithoutStemming):
+	file_name = ip_doc
 	ip_file = open(ip_doc)
 	ip_doc = ip_file.read()
 	ip_file.close()
@@ -41,4 +43,7 @@ def extractFeatures(ip_doc,ip_docWithoutStemming):
 		else:
 			fVect.append(0)
 		featureVectors.append(fVect)
+	wordNetWeights = wordNetFeature(file_name)	
+	for i in xrange(sentences_len):
+		featureVectors[i].append(wordNetWeights[i])	
 	print featureVectors
