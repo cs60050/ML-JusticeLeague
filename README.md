@@ -67,3 +67,6 @@ Update: Dated 24th September, 2016
   
   ![](./Pics/SentencePosition.png)
 
+ **Wordnet Ranking**
+
+   We created list of Keywords by taking Adjectives,nouns and Propernouns.We have calculated number of times a particular word or its synonyms occured in document by using synset.Now if Keyword is a properNoun a score of 1 is assigned or else a highest similarity score is assigned which is calculated with respect to synonyms of other words present in document.Now for each sentence a score is assigned which is (sum of scores of all keywords present in the sentence)/(Number of keywords present in sentence).
