@@ -1,0 +1,9 @@
+1) "train.py" can be used for learning a model.
+It expects the training documents to be at "./training/FullDocs/" and their corresponding small summaries to be at "./training/SmallSumms/" (similarly their corresponding large summaries at "./training/LargeSumms/"), and their corresponding vector files at "./vectors/".
+The number of training documents is to be given as the command line argument while executing "train.py".
+It generates two files train_set.csv and mined_data.txt out of which mined_data.txt has the information about the learned model (each line containing the metrics of each of the features for a particular class) and train_set.csv is generated as an intermediate file that will be used by itself.
+
+2) "giveSummary.py" can be used for generating the summaries.
+It expects "mined_data.txt" file to be in the same directory as this.
+The path to the input document and its corresponding vector file are to be given as command line arguments while executing "giveSummary.py"
+It generates a large summary and a small summary.
