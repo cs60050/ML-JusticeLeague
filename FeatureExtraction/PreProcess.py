@@ -9,17 +9,14 @@ sys.setdefaultencoding('utf8')
 
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle') 
 
-def doPreProcessing(ip_doc,ip_docWithoutStemming):
+def doPreProcessing(ip_doc):
 	ss = SnowballStemmer("english")
 	fulldoc = []
 	lengths = []
 	sentencesList = []
-	sentences = tokenizer.tokenize(ip_doc)
-	sentences = filter(lambda a: a.strip() != ".", sentences)
-	#sentencesWithoutStemming = ip_docWithoutStemming.split("\n")
-	sentencesWithoutStemming = tokenizer.tokenize(ip_docWithoutStemming)
+	sentencesWithoutStemming = tokenizer.tokenize(ip_doc)
 	sentencesWithoutStemming = filter(lambda a: a.strip() != ".", sentencesWithoutStemming)
-	for sent in sentences:
+	for sent in sentencesWithoutStemming:
 		if(sent != "."):
 			tokens =  word_tokenize(sent)
 			words = [w.lower() for w in tokens]

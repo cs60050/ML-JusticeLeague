@@ -1,6 +1,7 @@
 import csv
 import random
 import math
+import sys
 
 # returns a list of lists
 def loadCsv(filename):
@@ -63,9 +64,11 @@ def getPredictions(summaries, testSet):
 		predictions.append(result)
 	return predictions
  
-def classify(inputVectors):
-
-	filename = "mined_data.txt"				# consider that learned data is present in this file in the current directory
+def classify(inputVectors, mode_num):
+	if(mode_num == 1):
+		filename = "mined_data_comb.txt"				# consider that learned data is present in this file in the current directory
+	else:
+		filename = "mined_data_large.txt"
 	summaries = loadFeatureData(filename)
 
 	# use the learned model for predictions
@@ -73,39 +76,41 @@ def classify(inputVectors):
 	return predictions
 
 
-def evaluate(input_full_doc,input_vector_file,actual_summ):
+def evaluate(input_full_doc,input_vector_file,actual_summ, mode_num):
 	try:
 		f1 = open(input_full_doc,"r")
 		inputVectors = loadCsv(input_vector_file)
 		f2 = open(actual_summ,"r")
 	except Exception,e:
-		print "---Could not access the some of the input files at their respective given location---"
+		#print "---Could not access the some of the input files at their respective given location---"
 		# print e
 		return [0,0,0,0]
 
 	full_doc_lines = f1.read().splitlines()
 	summary_lines = f2.read().splitlines()
-
+	pred = mode_num + 1
+	if(pred > 2): pred = 1
 	true_positives = 0
 	true_negatives = 0
 	false_positives = 0
 	false_negatives = 0
 	if len(inputVectors) == len(full_doc_lines):
-		predictions = classify(inputVectors)
+		predictions = classify(inputVectors, mode_num)
 
 		i = 0
 		for line in full_doc_lines:
-			if (predictions[i] == 1) and (line in summary_lines):	# consider class label for being present in the summary to be 1
+			if (predictions[i] == pred and line in summary_lines):	# consider class label for being present in the summary to be 1
 				true_positives += 1
-			elif (predictions[i] == 0) and (line not in summary_lines):
+			elif (predictions[i] != pred and line not in summary_lines):
 				true_negatives += 1
-			elif (predictions[i] == 1) and (line not in summary_lines):
+			elif (predictions[i] == pred and line not in summary_lines):
 				false_positives += 1
 			else:
 				false_negatives += 1
 			i += 1
 	else:
-		print "---Given vector file is inconsistent with the given full_doc(" + input_full_doc + ")---"
+		pass
+		#print "---Given vector file is inconsistent with the given full_doc(" + input_full_doc + ")---"
 
 	f1.close()
 	f2.close()
@@ -114,28 +119,50 @@ def evaluate(input_full_doc,input_vector_file,actual_summ):
 
 def main():
 
+	if len(sys.argv) != 2:
+			print "Please provide proper arguments....\nTesting Mode Number:\n1)Small summaries\n2)Large Summaries\npython findAccuracy.py <mode_no>"
+			return
+	try:
+		mode_num = int(sys.argv[1])
+	except:
+		print "Please provide proper arguments....\nTesting Mode Number:\n1)Small summaries\n2)Large Summaries\npython findAccuracy.py <mode_no>"
+		return
+
 	true_positives = 0
 	true_negatives = 0
 	false_positives = 0
 	false_negatives = 0
+	count = 0
+	precision = 0
+	recall = 0
+	accuracy = 0
 	for i in range(121,213):
-		str1 = "./test/FullDocs/" + str(i) + "_fulldoc.txt"
-		# str2 = "./test/SmallSumms/" + str(i) + "_smallsumm.txt"
-		str21 = "./test/LargeSumms/" + str(i) + "_largesumm.txt"
-		str3 = "./vectors/" + str(i) + "_vec.csv"
+		str1  = "../TrainingData/Test/FullDocs/" + str(i) + "_fulldoc.txt"
+		str2  = "../TrainingData/Test/SmallSumms/" + str(i) + "_smallsumm.txt"
+		str21 = "../TrainingData/Test/LargeSumms/" + str(i) + "_largesumm.txt"
+		str3  = "../TrainingData/Test/Vectors/" + str(i) + "_vec.csv"
 
-		results = evaluate(str1,str3,str21)
+		if mode_num == 1:
+			sum_str = str2
+		elif mode_num == 2:
+			sum_str = str21
+		else:
+			print "---Invalid mode number---\nGoing to exit..."
+			return
+
+		results = evaluate(str1,str3,sum_str, mode_num)
 		true_positives += (results[0])
 		true_negatives += (results[1])
 		false_positives += (results[2])
 		false_negatives += (results[3])
 
-	precision = (float(true_positives)/(true_positives + false_positives))
-	recall = (float(true_positives)/(true_positives + false_negatives))
-	accuracy = (float(true_positives + true_negatives))/(true_positives + true_negatives + false_positives + false_negatives)
+		precision += (float(true_positives)/(true_positives + false_positives))
+		recall += (float(true_positives)/(true_positives + false_negatives))
+		accuracy += (float(true_positives + true_negatives))/(true_positives + true_negatives + false_positives + false_negatives)
+		count += 1
 
-	print "Precision : " + str(precision)
-	print "Recall : " + str(recall)
-	print "Accuracy : " + str(accuracy)
+	print "Precision:",precision/count
+	print "Recall:",recall/count
+	print "Accuracy:",accuracy/count
 
 main()

@@ -47,9 +47,6 @@ def doPreProcessing(ip_doc):
 
 
 def wordNetFeature(ip_doc):
-	ip_file = open(ip_doc)
-	ip_doc = ip_file.read()
-	ip_file.close()
 	sentences, sent_exact = doPreProcessing(ip_doc)
 	sentences_len = len(sentences)
 	#print sent_exact

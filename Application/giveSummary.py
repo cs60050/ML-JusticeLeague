@@ -5,6 +5,10 @@ import csv
 import random
 import math
 
+sys.path.insert(0, '../FeatureExtraction')
+
+import FeatureExtractor
+
 # returns a list of lists
 def loadCsv(filename):
 	lines = csv.reader(open(filename, "rb"))
@@ -65,9 +69,11 @@ def getPredictions(summaries, testSet):
 		predictions.append(result)
 	return predictions
  
-def classify(inputVectors):
-
-	filename = "mined_data.txt"				# consider that learned data is present in this file in the current directory
+def classify(inputVectors, mode_num):
+	if(mode_num == 1):
+		filename = "../ModelCreation/mined_data_comb.txt"				# consider that learned data is present in this file in the current directory
+	else:
+		filename = "../ModelCreation/mined_data_large.txt"
 	summaries = loadFeatureData(filename)
 
 	# use the learned model for predictions
@@ -76,44 +82,56 @@ def classify(inputVectors):
 
 def main():
 
-	if(len(sys.argv) != 3):
-		print "Please provide proper arguments....\npython giveSummary.py <path_to_the_input_doc> <path_to_the_vector_file_of_input_doc>"
+	if(len(sys.argv) != 2):
+		print "Please provide proper arguments... python giveSummary.py <path_to_the_input_doc> "
 		return
 	
-	input_full_doc = sys.argv[1]
-	input_vector_file = sys.argv[2]
+	try:
+		input_full_doc = sys.argv[1]
+	except:
+		print "Please provide proper arguments.... python giveSummary.py <path_to_the_input_doc>"
+		return
 
 	try:
 		f1 = open(input_full_doc,"r")
-		inputVectors = loadCsv(input_vector_file)
+		#inputVectors = loadCsv(input_vector_file)
 	except Exception,e:
-		print "---Could not access the some of the input files at their respective given location---"
+		print "--- Could not access the the input file ---"
 		# print e
 		return
-
-	full_doc_lines = f1.read().splitlines()
+	full_doc = f1.read()
+	full_doc_lines = full_doc.splitlines()
+	inputVectors = FeatureExtractor.extractFeatures(full_doc)
 
 	if len(inputVectors) == len(full_doc_lines):
-		predictions = classify(inputVectors)
+		predictions1 = classify(inputVectors, 1)
+		predictions2 = classify(inputVectors, 2)
 
-		f2 = open("output_smallsumm.txt","w")
+		print predictions1
+		print predictions2
 		f3 = open("output_largesumm.txt","w")
-
 		cnt = 0
 		for line in full_doc_lines:
-			if predictions[cnt] == 2:
-				f2.write(line)
-				f2.write("\n")
-				f3.write(line)
-				f3.write("\n")
-			elif predictions[cnt] == 1:
+			if predictions2[cnt] == 1:
 				f3.write(line)
 				f3.write("\n")
 			cnt += 1
 
 		f1.close()
-		f2.close()
 		f3.close()
+
+		f3 = open("output_smallsumm.txt","w")
+		cnt = 0
+		for line in full_doc_lines:
+			if predictions1[cnt] == 2:
+				f3.write(line)
+				f3.write("\n")
+			cnt += 1
+
+		f1.close()
+		f3.close()
+
+
 	else:
 		print "---Given vector file is inconsistent with the given full_doc---"
 		f1.close()

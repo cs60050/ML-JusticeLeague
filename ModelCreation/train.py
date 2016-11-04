@@ -55,23 +55,24 @@ def learn(filename):
 
 def main():
 
-	if len(sys.argv) != 2:
-		print "Please provide proper arguments....\npython train.py <no.of.training docs>"
+	if len(sys.argv) != 3:
+		print "Please provide proper arguments....\nTraining Mode Number:\n1)Small summaries\n2)Large Summaries\n3)Small and Large Summaries\npython train.py <no.of.training docs> <mode_no>"
 		return
 	try:
 		num_train_docs = int(sys.argv[1])
+		mode_num = int(sys.argv[2])
 	except:
-		print "Please provide proper arguments....\npython train.py <no.of.training docs>"
+		print "Please provide proper arguments....\nTraining Mode Number:\n1)Small summaries\n2)Large Summaries\n3)Small and Large Summaries\npython train.py <no.of.training docs> <mode_no>"
 		return
 	
 	training_data_file = "train_set.csv"
 	f3 = open(training_data_file,"w")
 
 	for i in range(1,num_train_docs + 1):
-		str1 = "./training/FullDocs/" + str(i) + "_fulldoc.txt"
-		str2 = "./training/SmallSumms/" + str(i) + "_smallsumm.txt"
-		str21 = "./training/LargeSumms/" + str(i) + "_largesumm.txt"
-		str3 = "./vectors/" + str(i) + "_vec.csv"
+		str1 = "../TrainingData/Training/FullDocs/" + str(i) + "_fulldoc.txt"
+		str2 = "../TrainingData/Training/SmallSumms/" + str(i) + "_smallsumm.txt"
+		str21 = "../TrainingData/Training/LargeSumms/" + str(i) + "_largesumm.txt"
+		str3 = "../TrainingData/Training/Vectors/" + str(i) + "_vec.csv"
 
 
 		try:
@@ -80,7 +81,7 @@ def main():
 			f21= open(str21,"r")
 			sentenceVectors = loadCsv(str3)
 		except Exception,e:
-			print "---Could not access doc no " + str(i) + "---"
+			#print "---Could not access doc no " + str(i) + "---"
 			# print e
 			continue
 
@@ -90,13 +91,30 @@ def main():
 
 		if len(sentenceVectors) == len(full_doc_lines):
 			list2 = []
-			for line in full_doc_lines:
-				if line in list1:
-					list2.append(2)
-				elif line in list11:
-					list2.append(1)
-				else:
-					list2.append(0)
+			if mode_num == 3:
+				for line in full_doc_lines:
+					if line in list1:
+						list2.append(2)
+					elif line in list11:
+						list2.append(1)
+					else:
+						list2.append(0)
+			elif mode_num == 2:
+				for line in full_doc_lines:
+					if line in list11:
+						list2.append(1)
+					else:
+						list2.append(0)
+			elif mode_num == 1:
+				for line in full_doc_lines:
+					if line in list1:
+						list2.append(1)
+					else:
+						list2.append(0)
+			else:
+				print "---Invalid mode number---\nGoing to exit..."
+				return
+
 
 			cnt = long(0)
 			for sentVec in sentenceVectors:
@@ -117,7 +135,14 @@ def main():
 
 	learned_feature_data = learn(training_data_file)
 
-	f1 = open("mined_data.txt","w")
+	store_name = "mined_data"
+	if(mode_num == 1):
+		store_name += "_small.txt"
+	elif(mode_num == 2):
+		store_name += "_large.txt"
+	else:
+		store_name += "_comb.txt"
+	f1 = open(store_name,"w")
 
 	for class_label in learned_feature_data:
 

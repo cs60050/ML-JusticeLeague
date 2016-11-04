@@ -10,24 +10,15 @@ from nltk import pos_tag
 # Features - [ Mean_TF_ISF, Sentence Length,  Sentence Position,   textRank,   ProperNouns ,    Numerical Data,   Wordnet        ]
 # Indexes  - [     0      ,        1       ,          2        ,   3       ,   4           ,     5            ,      6        ]
 
-def extractFeatures(ip_doc,ip_docWithoutStemming):
-    file_name = ip_doc
-    ip_file = open(ip_doc)
-    ip_doc = ip_file.read()
-    ip_file.close()
-
-    ip_file = open(ip_docWithoutStemming)
-    ip_docWithoutStemming = ip_file.read()
-    ip_file.close()
-
-    sentences, lengths, sentencesWithoutStemming = doPreProcessing(ip_doc,ip_docWithoutStemming)
+def extractFeatures(ip_doc):
+    sentences, lengths, sentencesWithoutStemming = doPreProcessing(ip_doc)
     sentences_len = len(sentences)
     maxlen = max(lengths)
     VSM = convertToVSM(sentences)
     VSM_deepCopy=VSM[:]
     summarizer = modifiedSummarizer()
     sentenceRanks=summarizer.summarize(VSM_deepCopy,1,None,"english",False,True)
-    wordNetWeights = wordNetFeature(file_name)
+    wordNetWeights = wordNetFeature(ip_doc)
     featureVectors = []
     for i in range(sentences_len):
         if lengths[i] != 0:     
@@ -67,4 +58,4 @@ def extractFeatures(ip_doc,ip_docWithoutStemming):
             
 
 
-    print featureVectors
+    return featureVectors
