@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>gaza citi -lrb- cnn -rrb- -- hour presid barack obama rode triumphal parad capitol hill white hous gaza citi anoth triumphal parad .</a>
+<a name="2">[2]</a> <a href="#2" id=2>ve cover dozen victori celebr gaza -- struck watch smile chant crowd go despit everyth happen sinc 27 decemb 2008 israel launch version shock awe littl actual chang .</a>
+<a name="3">[3]</a> <a href="#3" id=3></a>
+</body>
+</html>

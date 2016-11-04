@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>n. korea prep satellit launch amid space develop claim cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>senior u.s. offici told cnn last week american spi satellit snap imag prepar north korean site previous use launch taepodong-2 missil .</a>
+<a name="3">[3]</a> <a href="#3" id=3>north korea 's offici korean central news agenc -lrb- kcna -rrb- said monday go ahead space develop program yonhap said ad report possibl messag washington ahead secretari state hillari clinton 's visit seoul south korea week .</a>
+<a name="4">[4]</a> <a href="#4" id=4>one come know later launch dprk -lrb- democrat peopl 's republ korea -rrb- kcna said accord yonhap deni missil test plan .</a>
+<a name="5">[5]</a> <a href="#5" id=5>space develop independ right dprk requir develop realiti kcna said call outsid report vicious trick aim stop nation 's sovereign activ yonhap report .</a>
+<a name="6">[6]</a> <a href="#6" id=6>south korea reject north korean claim right space develop foreign minist yu myung-hwan say parliamentari session whether missil satellit -lrb- launch -rrb- would constitut violat u.n. secur council 's resolut 1718 yonhap report monday .</a>
+<a name="7">[7]</a> <a href="#7" id=7></a>
+</body>
+</html>

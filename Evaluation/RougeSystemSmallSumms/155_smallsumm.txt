@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>betancourt 's husband admit ici reunion cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>bogota colombia -lrb- ap -rrb- -- husband rescu colombian hostag ingrid betancourt say marriag may .</a>
+<a name="3">[3]</a> <a href="#3" id=3>interview bogota newspap el tiempo juan carlo lecompt acknowledg mani note two reunit front tv camera last week 's rescu .</a>
+<a name="4">[4]</a> <a href="#4" id=4>ask ingrid betancourt question .</a>
+<a name="5">[5]</a> <a href="#5" id=5>lecompt work hard betancourt 's releas .</a>
+<a name="6">[6]</a> <a href="#6" id=6>two marri 1997 .</a>
+<a name="7">[7]</a> <a href="#7" id=7>watch betancourt describ daili life hostag .</a>
+<a name="8">[8]</a> <a href="#8" id=8></a>
+</body>
+</html>

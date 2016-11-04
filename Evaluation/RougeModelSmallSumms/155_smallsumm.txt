@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>betancourt greet cold .</a>
+<a name="2">[2]</a> <a href="#2" id=2>lecompt say interview publish wednesday betancourt 's love could disappear six year rebel hostag .</a>
+<a name="3">[3]</a> <a href="#3" id=3>two marri 1997 .</a>
+<a name="4">[4]</a> <a href="#4" id=4></a>
+</body>
+</html>

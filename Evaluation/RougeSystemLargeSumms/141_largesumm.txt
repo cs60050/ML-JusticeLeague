@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>boro hammer blow liverpool h2 hope cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>-lrb- cnn -rrb- -- liverpool 's premier leagu titl hope suffer anoth sever setback went 2-0 releg struggler middlesbrough riversid stadium saturday .</a>
+<a name="3">[3]</a> <a href="#3" id=3>complet sorri afternoon rafael benitez men chelsea grab late winner home wigan leapfrog goal differ second place english stand .</a>
+<a name="4">[4]</a> <a href="#4" id=4>leader manchest unit play leagu cup final tottenham hotspur sunday seven point clear chelsea liverpool play game less .</a>
+<a name="5">[5]</a> <a href="#5" id=5>manag alex ferguson would certain delight turn event main rival liverpool stumbl despit go match back morale-boost 1-0 win real madrid champion leagu .</a>
+<a name="6">[6]</a> <a href="#6" id=6>home goalkeep brad jone save nabil el zhar dirk kuyt gerrard drove side net boro took shock 31st minut lead stewart down 's corner unwit deflect past keeper pepe reina xabi alonso .</a>
+<a name="7">[7]</a> <a href="#7" id=7>liverpool press desper equal el zhar convert set gerrard turkish intern tuncay san put boro ahead hour mark .</a>
+<a name="8">[8]</a> <a href="#8" id=8>terri volley home edg area 24th minut restor order chelsea look set comfort win .</a>
+<a name="9">[9]</a> <a href="#9" id=9>eight minut left maynor figueroa set olivi kapo wigan equal hope deserv point dash chelsea captain frank lampard pop penalti area score winner .</a>
+<a name="10">[10]</a> <a href="#10" id=10>robin van persi spurn best chanc home side also hit post visitor fulham well worth point .</a>
+<a name="11">[11]</a> <a href="#11" id=11>result leav arsenal fifth spot five point adrift aston villa play game battl champion leagu spot .</a>
+<a name="12">[12]</a> <a href="#12" id=12>everton 2-0 home west bromwich albion remain sixth place cut gap arsenal two point excel run continu .</a>
+<a name="13">[13]</a> <a href="#13" id=13></a>
+</body>
+</html>

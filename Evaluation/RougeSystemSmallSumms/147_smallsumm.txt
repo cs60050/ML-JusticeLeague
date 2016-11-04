@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>research led dr. lewi b. morgenstern univers michigan ann arbor count 1,247 stroke caus blood clot 64 census tract nuec counti texa includ corpus christi januari 2000 june 2003 .</a>
+<a name="2">[2]</a> <a href="#2" id=2>associ suggest risk stroke neighborhood increas 1 percent everi fast-food restaur author wrote poster present american stroke associ 's intern stroke confer .</a>
+<a name="3">[3]</a> <a href="#3" id=3>resid neighborhood 75th percentil fast-food restaur 6 percent increas risk stroke compar resid 25th percentil eateri accord studi paid nation institut neurolog disord stroke .</a>
+<a name="4">[4]</a> <a href="#4" id=4></a>
+</body>
+</html>

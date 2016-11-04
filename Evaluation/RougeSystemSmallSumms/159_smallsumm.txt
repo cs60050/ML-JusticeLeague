@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>new search way pilot steve fossett cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>search team led geologist adventur racer simon donato focus remot wood area near 63-year-old fossett last seen -- area could conceal wreckag crew mani privat militari plane search last year .</a>
+<a name="3">[3]</a> <a href="#3" id=3>team continu effort come friday possibl saturday cover 15 20 mile day depend terrain donato said .</a>
+<a name="4">[4]</a> <a href="#4" id=4>fossett took septemb 3 hilton 's ranch borrow plane suppos short pleasur flight head toward lucki boy pass wassuk .</a>
+<a name="5">[5]</a> <a href="#5" id=5></a>
+</body>
+</html>

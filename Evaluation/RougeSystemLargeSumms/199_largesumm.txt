@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>ski train : colorado 's quiet treasur cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>ski train 68-year-old local favorit shuttl 750 peopl denver winter park .</a>
+<a name="3">[3]</a> <a href="#3" id=3>addit expens park train station denver lift ticket skier .</a>
+<a name="4">[4]</a> <a href="#4" id=4>kraft say enjoy maiden voyag train came courtesi local home builder bought group ticket one club car .</a>
+<a name="5">[5]</a> <a href="#5" id=5>site say current train car purchas ansco invest compani bought ski train 1988 .</a>
+<a name="6">[6]</a> <a href="#6" id=6>one time coal train derail tunnel union pacif offici told ski train oper would take two day clear track say ski train media relat director jim bain .</a>
+<a name="7">[7]</a> <a href="#7" id=7></a>
+</body>
+</html>

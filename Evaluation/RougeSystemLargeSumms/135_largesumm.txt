@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>london england -lrb- cnn -rrb- -- new york london hong kong busi hub global economi .</a>
+<a name="2">[2]</a> <a href="#2" id=2>busi travel interest three thing hotel -- decent night 's sleep shower good breakfast .</a>
+<a name="3">[3]</a> <a href="#3" id=3>get insight hotel carri test ensur meet need guest starwood 's hotel lab budget boutiqu subsidiari aloft new york .</a>
+<a name="4">[4]</a> <a href="#4" id=4>although marriott intern luxuri subsidiari hotel brand like ritz-carlton team hotel design ian schrager launch first boutiqu brand later year .</a>
+<a name="5">[5]</a> <a href="#5" id=5>speak john bill marriott jr. chairman ceo marriott intern ian schrager .</a>
+<a name="6">[6]</a> <a href="#6" id=6>hotel charg often bugbear busi travel often pay nose simpl breakfast .</a>
+<a name="7">[7]</a> <a href="#7" id=7>visit first andaz hotel former great eastern hotel london .</a>
+<a name="8">[8]</a> <a href="#8" id=8>also visit peninsula hong kong current celebr 80th anniversari find 's chang new york 's plaza hotel follow two-year revamp .</a>
+<a name="9">[9]</a> <a href="#9" id=9></a>
+</body>
+</html>

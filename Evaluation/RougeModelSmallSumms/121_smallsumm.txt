@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>senior u.s. offici told cnn last week american spi satellit snap imag prepar north korean site previous use launch taepodong-2 missil .</a>
+<a name="2">[2]</a> <a href="#2" id=2>one come know later launch dprk -lrb- democrat peopl 's republ korea -rrb- kcna said accord yonhap deni missil test plan .</a>
+<a name="3">[3]</a> <a href="#3" id=3>south korea reject north korean claim right space develop foreign minist yu myung-hwan say parliamentari session whether missil satellit -lrb- launch -rrb- would constitut violat u.n. secur council 's resolut 1718 yonhap report monday .</a>
+<a name="4">[4]</a> <a href="#4" id=4></a>
+</body>
+</html>

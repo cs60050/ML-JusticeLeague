@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>obama prais stevi wonder white hous cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>washington -lrb- cnn -rrb- -- hear barack obama tell owe stevi wonder plenti .</a>
+<a name="3">[3]</a> <a href="#3" id=3>think 's fair say stevi wonder fan michell might date .</a>
+<a name="4">[4]</a> <a href="#4" id=4>might marri obama said wednesday first ladi host concert award ceremoni wonder .</a>
+<a name="5">[5]</a> <a href="#5" id=5>wonder present gershwin award lifetim achiev event schedul air pbs thursday .</a>
+<a name="6">[6]</a> <a href="#6" id=6>wonder 's tune sign seal deliv 'm often play obama 's campaign stop .</a>
+<a name="7">[7]</a> <a href="#7" id=7>presid told guest white hous wonder 's music also soundtrack youth marriag .</a>
+<a name="8">[8]</a> <a href="#8" id=8>michell obama told crowd wonder 's love song coupl 's wed song .</a>
+<a name="9">[9]</a> <a href="#9" id=9>wonder accept award presid obama gave big hug .</a>
+<a name="10">[10]</a> <a href="#10" id=10>i. jazz crooner toni bennett among perform event .</a>
+<a name="11">[11]</a> <a href="#11" id=11>obama staff member said event part effort open white hous broader communiti .</a>
+<a name="12">[12]</a> <a href="#12" id=12></a>
+</body>
+</html>

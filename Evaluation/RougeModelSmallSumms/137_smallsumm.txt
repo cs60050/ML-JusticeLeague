@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>rome-bas u.n. food agricultur organ host three-day summit start tuesday goal avert loom catastroph widen malnutrit civil unrest among poor peopl unabl afford basic foodstuff world bank calcul 83 percent increas price last three year .</a>
+<a name="2">[2]</a> <a href="#2" id=2>summit head u.n. plan urg world leader help bring soar food price immedi suspend elimin mani price control agricultur trade restrict .</a>
+<a name="3">[3]</a> <a href="#3" id=3>u.n. secretary-gener ban ki-moon press nation eas wide varieti farm tax export ban import tariff help million world 's poor cope highest food price 30 year u.n. offici said .</a>
+<a name="4">[4]</a> <a href="#4" id=4>ban also seek increas world food product intend request unit state nation phase subsidi food-bas biofuel includ ethanol use encourag farmer grow crop energi use rather human consumpt .</a>
+<a name="5">[5]</a> <a href="#5" id=5>food price skyrocket worldwid due high oil price chang diet urban expand popul flaw trade polici extrem weather growth biofuel product specul .</a>
+<a name="6">[6]</a> <a href="#6" id=6></a>
+</body>
+</html>

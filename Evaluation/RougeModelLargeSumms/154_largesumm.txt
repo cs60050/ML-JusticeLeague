@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>green pernic share soni open advantag cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>-lrb- cnn -rrb- -- nathan green australia tom pernic jr share lead second round soni open hawaii .</a>
+<a name="3">[3]</a> <a href="#3" id=3>take advantag earli start pristin condit waiala countri club green fire second straight four-under-par 66 132 36 hole .</a>
+<a name="4">[4]</a> <a href="#4" id=4>pernic play later day blister cours 63 fire five birdi eagl par-fiv 18 .</a>
+<a name="5">[5]</a> <a href="#5" id=5>pair hold one-strok edg first-round leader shigeki maruyama fire 68 go open 65 brian gay .</a>
+<a name="6">[6]</a> <a href="#6" id=6></a>
+</body>
+</html>

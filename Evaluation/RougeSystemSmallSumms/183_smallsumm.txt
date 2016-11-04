@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>zakaria : vote move u.s. india closer cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>deal would give india access u.s. nuclear fuel technolog civilian nuclear power plant -- even though new delhi test nuclear weapon 1974 1998 declin join intern nonprolifer agreement .</a>
+<a name="3">[3]</a> <a href="#3" id=3>editor 's note : fare zakaria preemin foreign affair analyst host fare zakaria : gps cnn 1 p.m et sunday .</a>
+<a name="4">[4]</a> <a href="#4" id=4></a>
+</body>
+</html>

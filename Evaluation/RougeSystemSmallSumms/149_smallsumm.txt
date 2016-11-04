@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>sinc 2004 last year relat calm annual act violenc increas 900 8,950 2007 roadsid bomb 325 incid 1,469 tanner say .</a>
+<a name="2">[2]</a> <a href="#2" id=2>sinc januari 2008 u.s. nato troop death rose 26 percent accord statist .</a>
+<a name="3">[3]</a> <a href="#3" id=3></a>
+</body>
+</html>

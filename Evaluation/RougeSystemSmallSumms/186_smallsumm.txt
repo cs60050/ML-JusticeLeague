@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>gop rise star jindal 's speech coming-out parti cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>washington -lrb- cnn -rrb- -- thrust spotlight republican rise star louisiana gov bobbi jindal depict up-and-com capabl help reshap parti jockey 2012 gop presidenti nomin .</a>
+<a name="3">[3]</a> <a href="#3" id=3>33 .</a>
+<a name="4">[4]</a> <a href="#4" id=4>jindal fall behind former massachusett gov mitt romney former hous speaker newt gingrich former new york mayor rudi giuliani grab back 19 percent .</a>
+<a name="5">[5]</a> <a href="#5" id=5>florida gov charli crist drew 7 percent .</a>
+<a name="6">[6]</a> <a href="#6" id=6></a>
+</body>
+</html>

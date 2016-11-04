@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>paraguay 's presid want resign start senat term cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>asuncion paraguay -lrb- cnn -rrb- -- paraguay 's presid nicanor duart offer congress resign monday two month term slate end .</a>
+<a name="3">[3]</a> <a href="#3" id=3>duart member rule colorado parti bar law run second five-year presidenti term last april 's elect instead ran seat paraguay 's senat .</a>
+<a name="4">[4]</a> <a href="#4" id=4>opposit member even duart 's colorado parti member oppos bid argu constitut allow presid hold anoth posit .</a>
+<a name="5">[5]</a> <a href="#5" id=5>contend constitut allow presid occupi two offic time rule intend ensur chief state give short shrift job .</a>
+<a name="6">[6]</a> <a href="#6" id=6>hope senat repres nation complet constitut mandat reject accept resign duart said nation televis address .</a>
+<a name="7">[7]</a> <a href="#7" id=7></a>
+</body>
+</html>

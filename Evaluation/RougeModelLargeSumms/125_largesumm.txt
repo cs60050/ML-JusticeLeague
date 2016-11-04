@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>9\/11 billboard draw flak florida democrat gop cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>-lrb- cnn -rrb- -- florida man use billboard imag burn world trade center encourag vote republican presidenti candid draw critic politic 9\/11 attack .</a>
+<a name="3">[3]</a> <a href="#3" id=3>mike meehan st cloud florida businessman paid post billboard orlando area said former presid clinton put stop osama bin laden al qaeda 9\/11 .</a>
+<a name="4">[4]</a> <a href="#4" id=4>democrat republican say meehan n't use 9\/11 imag make polit point .</a>
+<a name="5">[5]</a> <a href="#5" id=5>blatant exploit terribl tragedi polit perhap even wors person gain bill robinson orang counti florida democrat parti chairman told cnn affili wftv-tv orlando .</a>
+<a name="6">[6]</a> <a href="#6" id=6>local republican parti call billboard inappropri accord wftv .</a>
+<a name="7">[7]</a> <a href="#7" id=7>accord meehan presid bush done excel job ... go terrorist .</a>
+<a name="8">[8]</a> <a href="#8" id=8>got rememb ... peopl georg bush catch much success .</a>
+<a name="9">[9]</a> <a href="#9" id=9>unlik bill clinton actual bin laden right hand cia high offici decid get go meehan said .</a>
+<a name="10">[10]</a> <a href="#10" id=10></a>
+</body>
+</html>

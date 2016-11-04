@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>baghdad iraq -lrb- cnn -rrb- -- eager develop close tie countri around world backyard iraq continu press ahead diplomat activ .</a>
+<a name="2">[2]</a> <a href="#2" id=2>al-maliki earlier month visit unit arab emir forgav near $ 7 billion owe baghdad agre re-establish diplomat relat iraq .</a>
+<a name="3">[3]</a> <a href="#3" id=3></a>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>commentari : obama run war terror cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>editor 's note : peter bergen cnn 's nation secur analyst fellow new america foundat washington new york univers 's center law secur .</a>
+<a name="3">[3]</a> <a href="#3" id=3>washington -lrb- cnn -rrb- -- war al qaeda alli barack obama adopt five key principl take offic .</a>
+<a name="4">[4]</a> <a href="#4" id=4>first unit state must lower temperatur muslim world help win back swing voter islam world turn america provid passiv support al qaeda .</a>
+<a name="5">[5]</a> <a href="#5" id=5>encod dna group like al qaeda seed long-term destruct : victim often muslim civilian ; organ n't offer posit vision futur -lrb- rather prospect taliban-styl regim morocco indonesia -rrb- ; keep expand list enemi includ muslim n't precis share world view ; seem incap becom polit success movement al qaeda 's ideolog prevent make real-world compromis would allow engag genuin polit .</a>
+<a name="6">[6]</a> <a href="#6" id=6>harm doctrin would serv bush administr well attack iraq given 4,000 dead 30,000 wound american soldier ; ten thousand iraqi kill ; cost u.s. taxpay could top trillion dollar fact jihadist terrorist attack increas around world sevenfold three year follow 2003 invas accord studi paul cruickshank nyu .</a>
+<a name="7">[7]</a> <a href="#7" id=7>al qaeda iraq 's -lrb- aqi -rrb- unrestrain violenc imposit taliban ideolog iraqi self-inflict wound provok countrywid sunni backlash aqi form awaken militia alli unit state .</a>
+<a name="8">[8]</a> <a href="#8" id=8>fourth doctrin approach war al qaeda alli group global counterinsurg campaign someth thought student global war terror like australian anthropologist\/infantri offic lt. col. david kilcullen bruce hoffman dean terror studi advoc year .</a>
+<a name="9">[9]</a> <a href="#9" id=9></a>
+</body>
+</html>

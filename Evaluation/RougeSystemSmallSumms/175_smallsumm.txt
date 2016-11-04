@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>oil price rebound slight cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>bangkok thailand -lrb- ap -rrb- -- oil price rebound slight wednesday asia tumbl $ 5 previous session trader worri health global economi cash gain recent ralli .</a>
+<a name="3">[3]</a> <a href="#3" id=3>august brent crude rose 52 cent $ 136.95 barrel ice futur exchang london .</a>
+<a name="4">[4]</a> <a href="#4" id=4></a>
+</body>
+</html>

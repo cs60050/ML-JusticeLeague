@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>iraqi pm announc diplomat push cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>baghdad iraq -lrb- cnn -rrb- -- eager develop close tie countri around world backyard iraq continu press ahead diplomat activ .</a>
+<a name="3">[3]</a> <a href="#3" id=3>govern said thursday iraq 's prime minist nuri al-maliki meet next week leader germani itali pope .</a>
+<a name="4">[4]</a> <a href="#4" id=4>govern also announc meet baghdad thursday al-maliki saad hariri top lebanes lawmak .</a>
+<a name="5">[5]</a> <a href="#5" id=5>iraqi prime minist accompani deleg also meet repres german compani express interest willing enter iraqi market .</a>
+<a name="6">[6]</a> <a href="#6" id=6>al-maliki visit itali next thursday discuss cooper invest italian prime minist silvio berlusconi .</a>
+<a name="7">[7]</a> <a href="#7" id=7>iraq urg countri establish tie urg arab world name ambassador open embassi countri .</a>
+<a name="8">[8]</a> <a href="#8" id=8>sunni arab countri reluct restor close tie ongo warfar cool shiite-domin govern iraq .</a>
+<a name="9">[9]</a> <a href="#9" id=9>iraq major shiit iran predomin shiit develop close tie .</a>
+<a name="10">[10]</a> <a href="#10" id=10>iraq also make stride develop tie neighbor -- larg sunni arab world -- muslim nation .</a>
+<a name="11">[11]</a> <a href="#11" id=11>al-maliki earlier month visit unit arab emir forgav near $ 7 billion owe baghdad agre re-establish diplomat relat iraq .</a>
+<a name="12">[12]</a> <a href="#12" id=12>turkish prime minist recep tayyip erdogan iraq 's northern neighbor made trip baghdad last week .</a>
+<a name="13">[13]</a> <a href="#13" id=13>also kuwait 's news agenc report countri border iraq south soon expect name ambassador baghdad .</a>
+<a name="14">[14]</a> <a href="#14" id=14>hariri leader parliamentari major lebanon -- divers countri sunni shiit christian like iraq beset sectarian warfar .</a>
+<a name="15">[15]</a> <a href="#15" id=15>hariri said iraq lebanon similar intern struggl countri face interfer countri know regard refer syria iran .</a>
+<a name="16">[16]</a> <a href="#16" id=16>hariri said want show solidar iraq prais al-maliki 's plan rebuild countri call invest iraq underscor import democraci succeed place .</a>
+<a name="17">[17]</a> <a href="#17" id=17></a>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>world cup 2010 ticket go sale cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>london england -lrb- cnn -rrb- -- ticket 2010 world cup south africa gone sale .</a>
+<a name="3">[3]</a> <a href="#3" id=3>three million ticket avail next year 's 64-match tournament first held africa although half sold public .</a>
+<a name="4">[4]</a> <a href="#4" id=4>request ticket made fifa.com web site februari 20 march 31 .</a>
+<a name="5">[5]</a> <a href="#5" id=5>fan around world appli first 740,000 ticket .</a>
+<a name="6">[6]</a> <a href="#6" id=6>plan go world cup south africa ? .</a>
+<a name="7">[7]</a> <a href="#7" id=7>owe south africa 's locat demand ticket overal expect 20 million request made 750,000 ticket first stage last world cup germani .</a>
+<a name="8">[8]</a> <a href="#8" id=8>price rang $ 80 cheapest ticket group stage $ 900 expens seat hous watch final johannesburg juli 11 next year .</a>
+<a name="9">[9]</a> <a href="#9" id=9>organ alreadi beset problem construct stadium led specul tournament would take place elsewher hope avoid repeat empty-seat fiasco last two world cup .</a>
+<a name="10">[10]</a> <a href="#10" id=10>700,000 ticket avail sale oversea game japan 40 percent reserv nation associ around 30 percent sponsor .</a>
+<a name="11">[11]</a> <a href="#11" id=11></a>
+</body>
+</html>

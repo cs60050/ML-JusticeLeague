@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>taho cross countri ski area lake taho california .</a>
+<a name="2">[2]</a> <a href="#2" id=2>trail pass taho cross countri ski area $ 21 adult ask special .</a>
+<a name="3">[3]</a> <a href="#3" id=3>tuesday pass run $ 12 .</a>
+<a name="4">[4]</a> <a href="#4" id=4>trapp famili lodg stow vermont .</a>
+<a name="5">[5]</a> <a href="#5" id=5>methow valley winthrop washington .</a>
+<a name="6">[6]</a> <a href="#6" id=6>trail pass run $ 20 adult $ 10 teen age 13 17 .</a>
+<a name="7">[7]</a> <a href="#7" id=7>stoke creek lodg goulai river ontario canada .</a>
+<a name="8">[8]</a> <a href="#8" id=8>lodg offer $ 15 day pass group ten ; kid 18 younger pay $ 10 adult pass $ 18 .</a>
+<a name="9">[9]</a> <a href="#9" id=9>cabl area cabl wisconsin .</a>
+<a name="10">[10]</a> <a href="#10" id=10>telemark resort offer trail pass cheaper : $ 11 per day .</a>
+<a name="11">[11]</a> <a href="#11" id=11>lodg resort rang $ 79 room lodg $ 275 1,000-square-foot condo said darrel buchmann resort 's general manag .</a>
+<a name="12">[12]</a> <a href="#12" id=12></a>
+</body>
+</html>

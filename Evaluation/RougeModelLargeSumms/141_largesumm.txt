@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>boro hammer blow liverpool h2 hope cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>-lrb- cnn -rrb- -- liverpool 's premier leagu titl hope suffer anoth sever setback went 2-0 releg struggler middlesbrough riversid stadium saturday .</a>
+<a name="3">[3]</a> <a href="#3" id=3>leader manchest unit play leagu cup final tottenham hotspur sunday seven point clear chelsea liverpool play game less .</a>
+<a name="4">[4]</a> <a href="#4" id=4>manag alex ferguson would certain delight turn event main rival liverpool stumbl despit go match back morale-boost 1-0 win real madrid champion leagu .</a>
+<a name="5">[5]</a> <a href="#5" id=5>elsewher arsenal jeer pitch emir stadium held fourth straight goalless home draw leagu .</a>
+<a name="6">[6]</a> <a href="#6" id=6>robin van persi spurn best chanc home side also hit post visitor fulham well worth point .</a>
+<a name="7">[7]</a> <a href="#7" id=7></a>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>state depart scold china human right cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>washington -lrb- cnn -rrb- -- state depart issu report wednesday sharpli critic china 's human right record despit obama administr 's decis take differ approach asian countri .</a>
+<a name="3">[3]</a> <a href="#3" id=3>govern china 's human right record remain poor worsen area report said review last year find chines author commit extrajudici kill tortur coerc confess prison use forc labor .</a>
+<a name="4">[4]</a> <a href="#4" id=4>critic report stand sharp contrast lower-key approach secretari state hillari clinton took last week visit beij .</a>
+<a name="5">[5]</a> <a href="#5" id=5>delv u.s. human right practic report acknowledg u.s. human right record remain concern around world said presid obama vow appli global human right ideal home .</a>
+<a name="6">[6]</a> <a href="#6" id=6>depart state remain mind domest intern scrutini unit state record report said .</a>
+<a name="7">[7]</a> <a href="#7" id=7></a>
+</body>
+</html>

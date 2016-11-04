@@ -76,11 +76,12 @@ def classify(inputVectors, mode_num):
 	return predictions
 
 
-def evaluate(input_full_doc,input_vector_file,actual_summ, mode_num):
+def evaluate(input_full_doc,input_vector_file,actual_summ, mode_num, i):
 	try:
 		f1 = open(input_full_doc,"r")
 		inputVectors = loadCsv(input_vector_file)
 		f2 = open(actual_summ,"r")
+		f3 = open("./LargeSumms/"+str(i)+"_largesumm.txt","w")
 	except Exception,e:
 		#print "---Could not access the some of the input files at their respective given location---"
 		# print e
@@ -100,10 +101,14 @@ def evaluate(input_full_doc,input_vector_file,actual_summ, mode_num):
 		i = 0
 		for line in full_doc_lines:
 			if (predictions[i] == pred and line in summary_lines):	# consider class label for being present in the summary to be 1
+				f3.write(line)
+				f3.write("\n")
 				true_positives += 1
 			elif (predictions[i] != pred and line not in summary_lines):
 				true_negatives += 1
 			elif (predictions[i] == pred and line not in summary_lines):
+				f3.write(line)
+				f3.write("\n")
 				false_positives += 1
 			else:
 				false_negatives += 1
@@ -114,7 +119,7 @@ def evaluate(input_full_doc,input_vector_file,actual_summ, mode_num):
 
 	f1.close()
 	f2.close()
-
+	f3.close()
 	return [true_positives,true_negatives,false_positives,false_negatives]
 
 def main():
@@ -150,7 +155,7 @@ def main():
 			print "---Invalid mode number---\nGoing to exit..."
 			return
 
-		results = evaluate(str1,str3,sum_str, mode_num)
+		results = evaluate(str1,str3,sum_str, mode_num, i)
 		true_positives += (results[0])
 		true_negatives += (results[1])
 		false_positives += (results[2])

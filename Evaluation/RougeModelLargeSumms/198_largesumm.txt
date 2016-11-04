@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>new film explor confus game love cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>-lrb- cnn -rrb- -- nine lead charact one big problem .</a>
+<a name="3">[3]</a> <a href="#3" id=3>latest film 's director ken kwapi navig live nine baltimore-bas twenti thirty-someth play problemat game love .</a>
+<a name="4">[4]</a> <a href="#4" id=4>nine differ peopl men women .</a>
+<a name="5">[5]</a> <a href="#5" id=5>base best-sel book liz tuccillo greg behrendt former sex citi writer produc 's open friday delv bewild world relationship work all-star cast .</a>
+<a name="6">[6]</a> <a href="#6" id=6>star film includ drew barrymor scarlett johannson jennif aniston ginnif goodwin kevin connolli familiar confus situat charact encount film .</a>
+<a name="7">[7]</a> <a href="#7" id=7>life lesson depict film learn time experi said barrymor among cast member whose relationship made high-profil tabloid fodder .</a>
+<a name="8">[8]</a> <a href="#8" id=8>... talk relationship consum barrymor said .</a>
+<a name="9">[9]</a> <a href="#9" id=9></a>
+</body>
+</html>

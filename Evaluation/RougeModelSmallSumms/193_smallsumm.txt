@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>becam nation hero japan down-to-earth approach play yomiuri giant sign three-year contract new york yanke 2003 -- extend anoth four year $ 52 million 2006 .</a>
+<a name="2">[2]</a> <a href="#2" id=2>talk asia gaug opinion fan toward matsui game day explor restaur chain creat honor -- man discuss career favorit player life field .</a>
+<a name="3">[3]</a> <a href="#3" id=3></a>
+</body>
+</html>

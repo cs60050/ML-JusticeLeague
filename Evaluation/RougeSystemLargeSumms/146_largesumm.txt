@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>ces preview : tout tech brutal economi cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>las vega nevada -lrb- cnn -rrb- -- 130,000 techi converg las vega week 42nd annual intern consum electron show re encount industri 's anxious market high-tech gadget tightwad economi .</a>
+<a name="3">[3]</a> <a href="#3" id=3>industri observ believ nest trend could sustain demand product -- blu-ray player stereo video game cheap comput -- brighten famili room eas sting cancel disney world vacat .</a>
+<a name="4">[4]</a> <a href="#4" id=4>year 's trade show wrap sunday featur 2,700 exhibitor includ ces debut marque compani blockbust electron art mattel verizon wireless .</a>
+<a name="5">[5]</a> <a href="#5" id=5>tech observ also curious see internet giant cisco system launch first-ev line consumer-electron product palm unveil long-delay nova oper system microsoft ceo steve ballmer offer earli preview window 7 .</a>
+<a name="6">[6]</a> <a href="#6" id=6>thin ole tvs .</a>
+<a name="7">[7]</a> <a href="#7" id=7>soni showcas ole tvs ces expect see larger-s prototyp samsung 's said plan show version technolog well said cnet news report erica ogg .</a>
+<a name="8">[8]</a> <a href="#8" id=8>interconnect smartphon pcs laptop media extend video game consol digit music player quick infiltr mainstream conscious modern home said steinberg digitaltrends.com .</a>
+<a name="9">[9]</a> <a href="#9" id=9>re go see lot devic offer download video blu-ray player -lrb- video game consol -rrb- said costa pc magazin believ price blu-ray player keep drop .</a>
+<a name="10">[10]</a> <a href="#10" id=10>'s type devic re go see lot make perfect sens peopl look nest -lrb- home -rrb- .</a>
+<a name="11">[11]</a> <a href="#11" id=11></a>
+</body>
+</html>

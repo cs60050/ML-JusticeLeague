@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>biden assur pakistan support terror cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>islamabad pakistan -lrb- cnn -rrb- -- u.s. vice president-elect joe biden assur pakistani presid asif ali zardari friday incom obama administr continu support pakistan 's effort strengthen democraci combat terror accord pakistan 's ministri foreign affair .</a>
+<a name="3">[3]</a> <a href="#3" id=3>sen. lindsey graham r-south carolina accompani biden trip .</a>
+<a name="4">[4]</a> <a href="#4" id=4>wednesday pakistan 's ministri foreign affair said sole surviv suspect mumbai attack kill 160 peopl pakistani nation state-run media report .</a>
+<a name="5">[5]</a> <a href="#5" id=5></a>
+</body>
+</html>

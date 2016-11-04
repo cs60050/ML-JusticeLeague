@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>baghdad iraq -lrb- cnn -rrb- -- eager develop close tie countri around world backyard iraq continu press ahead diplomat activ .</a>
+<a name="2">[2]</a> <a href="#2" id=2>govern said thursday iraq 's prime minist nuri al-maliki meet next week leader germani itali pope .</a>
+<a name="3">[3]</a> <a href="#3" id=3>govern also announc meet baghdad thursday al-maliki saad hariri top lebanes lawmak .</a>
+<a name="4">[4]</a> <a href="#4" id=4>german chancellor angela merkel discuss strengthen econom secur tie two countri .</a>
+<a name="5">[5]</a> <a href="#5" id=5>al-maliki visit itali next thursday discuss cooper invest italian prime minist silvio berlusconi .</a>
+<a name="6">[6]</a> <a href="#6" id=6>ll meet pope benedict xvi friday brief pontiff step iraqi govern take promot equal nation reconcili .</a>
+<a name="7">[7]</a> <a href="#7" id=7>iraq urg countri establish tie urg arab world name ambassador open embassi countri .</a>
+<a name="8">[8]</a> <a href="#8" id=8>iraq also make stride develop tie neighbor -- larg sunni arab world -- muslim nation .</a>
+<a name="9">[9]</a> <a href="#9" id=9>al-maliki year also visit neighbor jordan jordan 's king abdullah plan trip .</a>
+<a name="10">[10]</a> <a href="#10" id=10></a>
+</body>
+</html>

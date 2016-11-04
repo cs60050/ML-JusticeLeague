@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>-lrb- cnn -rrb- -- actress sharon stone said statement saturday could regret comment month regard earthquak china suggest quak act karma .</a>
+<a name="2">[2]</a> <a href="#2" id=2>accid distract product news sensate .</a>
+<a name="3">[3]</a> <a href="#3" id=3>stone said saturday issu statement set record straight comment made report cann film festiv .</a>
+<a name="4">[4]</a> <a href="#4" id=4></a>
+</body>
+</html>

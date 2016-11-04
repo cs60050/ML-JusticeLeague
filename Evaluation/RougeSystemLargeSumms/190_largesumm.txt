@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>cnn ask ron bergin publish cross countri skier magazin recommend five place hit horizont slope .</a>
+<a name="2">[2]</a> <a href="#2" id=2>taho cross countri ski area lake taho california .</a>
+<a name="3">[3]</a> <a href="#3" id=3>area around lake taho straddl border california nevada ripe cross-countri ski opportun .</a>
+<a name="4">[4]</a> <a href="#4" id=4>much said kevin murnan general manag taho cross countri ski area spend whole week ski differ area everi day .</a>
+<a name="5">[5]</a> <a href="#5" id=5>trail pass taho cross countri ski area $ 21 adult ask special .</a>
+<a name="6">[6]</a> <a href="#6" id=6>trapp famili lodg stow vermont .</a>
+<a name="7">[7]</a> <a href="#7" id=7>own descend maria von trapp -- yes trapp famili whose life inspir sound music -- trapp famili lodg bring littl piec austria 's live hill mountain vermont .</a>
+<a name="8">[8]</a> <a href="#8" id=8>methow valley winthrop washington .</a>
+<a name="9">[9]</a> <a href="#9" id=9>stoke creek lodg goulai river ontario canada .</a>
+<a name="10">[10]</a> <a href="#10" id=10>lodg offer $ 15 day pass group ten ; kid 18 younger pay $ 10 adult pass $ 18 .</a>
+<a name="11">[11]</a> <a href="#11" id=11>cabl area cabl wisconsin .</a>
+<a name="12">[12]</a> <a href="#12" id=12>cabl area -- includ town cabl drummond namakagon grand view -- boast one world 's biggest cross-countri ski race regard birthplac sport north america bergin said .</a>
+<a name="13">[13]</a> <a href="#13" id=13>bergin live area call cabl area mecca cross-countri ski region .</a>
+<a name="14">[14]</a> <a href="#14" id=14>telemark resort offer trail pass cheaper : $ 11 per day .</a>
+<a name="15">[15]</a> <a href="#15" id=15>lodg resort rang $ 79 room lodg $ 275 1,000-square-foot condo said darrel buchmann resort 's general manag .</a>
+<a name="16">[16]</a> <a href="#16" id=16></a>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>commentari : obama congress share power ? cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>princeton new jersey -lrb- cnn -rrb- -- execut power one defin characterist presid georg w. bush 's administr .</a>
+<a name="3">[3]</a> <a href="#3" id=3>presid bush vice presid dick cheney mani member white hous push expand execut power -- much specif domest foreign polici -- begin administr .</a>
+<a name="4">[4]</a> <a href="#4" id=4>watch assert congress respond waterg scandal revit legisl power war power act 1973 budget reform 1974 foreign intellig surveil act independ counsel act 1978 .</a>
+<a name="5">[5]</a> <a href="#5" id=5>bush administr thought vest congress much power danger saw legisl branch ineffici .</a>
+<a name="6">[6]</a> <a href="#6" id=6>build effort sinc presid ronald reagan revers congression reform 1970s current white hous spent enorm polit energi 9\/11 tri reclaim power execut branch .</a>
+<a name="7">[7]</a> <a href="#7" id=7>exampl way agre legisl without agre follow intent congress bush issu statement sign bill -- far frequent preced presid .</a>
+<a name="8">[8]</a> <a href="#8" id=8>boston globe report extens use execut sign statement bush administr discuss legisl curtail power propos legisl fade away .</a>
+<a name="9">[9]</a> <a href="#9" id=9>editor 's note : julian e. zelize professor histori public affair princeton univers 's woodrow wilson school .</a>
+<a name="10">[10]</a> <a href="#10" id=10>co-editor rightward bound : make america conserv 1970s complet book histori national-secur polit sinc world war ii publish basic book .</a>
+<a name="11">[11]</a> <a href="#11" id=11></a>
+</body>
+</html>

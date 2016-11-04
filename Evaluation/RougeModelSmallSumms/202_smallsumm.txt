@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>obama inspir orat must use opportun well .</a>
+<a name="2">[2]</a> <a href="#2" id=2>one sourc inspir presid john f. kennedi young charismat commander-in-chief 1961 deliv one move inaugur speech american histori .</a>
+<a name="3">[3]</a> <a href="#3" id=3>re-introduc theme civic oblig post 9\/11 america obama explain american 2009 owe countri rather vice versa .</a>
+<a name="4">[4]</a> <a href="#4" id=4>second theme obama 's address must restor nation confid economi govern countri .</a>
+<a name="5">[5]</a> <a href="#5" id=5>final obama need outlin philosophi govern .</a>
+<a name="6">[6]</a> <a href="#6" id=6></a>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>heathrow trial tackl lost luggag cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>london england -lrb- cnn -rrb- -- six-month trial launch week promis transform way luggag track monitor london 's heathrow airport .</a>
+<a name="3">[3]</a> <a href="#3" id=3>trial -- run baa airlin emir -- use rfid -lrb- radio-frequ identif -rrb- technolog tag baggag .</a>
+<a name="4">[4]</a> <a href="#4" id=4>allow staff accur track bag pass airport .</a>
+<a name="5">[5]</a> <a href="#5" id=5>crucial differ rfid exist barcod system scan accuraci .</a>
+<a name="6">[6]</a> <a href="#6" id=6>rfid report offer 99 percent accuraci .</a>
+<a name="7">[7]</a> <a href="#7" id=7>baa also consid introduc sms text messag servic keep passeng inform bag .</a>
+<a name="8">[8]</a> <a href="#8" id=8>passeng arriv heathrow say cowlam idea send passeng text inform belt time bag arriv .</a>
+<a name="9">[9]</a> <a href="#9" id=9></a>
+</body>
+</html>

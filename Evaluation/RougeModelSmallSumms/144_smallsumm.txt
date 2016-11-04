@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>karadz arrest like catch bin laden cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>-lrb- cnn -rrb- -- radovan karadz 's arrest decade-long hunt equival catch europ 's osama bin laden u.s. diplomat broker peac bosnia say .</a>
+<a name="3">[3]</a> <a href="#3" id=3>richard holbrook negoti 1995 dayton peac agreement led chorus congratul around globe tell report histor day .</a>
+<a name="4">[4]</a> <a href="#4" id=4>ashdown also told britain 's daili telegraph newspap major breakthrough balkan region .</a>
+<a name="5">[5]</a> <a href="#5" id=5></a>
+</body>
+</html>

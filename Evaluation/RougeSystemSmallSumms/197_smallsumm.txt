@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>appl : 1 million new iphon sold cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>new york -lrb- ap -rrb- -- appl inc. said monday sold 1 million iphon three day follow releas latest model friday .</a>
+<a name="3">[3]</a> <a href="#3" id=3>appl sold 6 million unit first-model iphon sinc launch u.s. year ago .</a>
+<a name="4">[4]</a> <a href="#4" id=4>compani set goal sell 10 million iphon end 2008 .</a>
+<a name="5">[5]</a> <a href="#5" id=5>appl also said user iphon ipod touch download 10 million applic new app store sinc went onlin thursday .</a>
+<a name="6">[6]</a> <a href="#6" id=6></a>
+</body>
+</html>

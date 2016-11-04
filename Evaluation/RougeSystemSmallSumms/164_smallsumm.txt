@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>bangkok thailand -lrb- cnn -rrb- -- thailand 's prime minist suspect instanc myanmar 's rohingya boat peopl push sea frank admitt practic draw worldwid condemn .</a>
+<a name="2">[2]</a> <a href="#2" id=2>recent cnn investig found evid thai armi tow appar boatload 190 rohingya refuge sea prompt thai author launch investig .</a>
+<a name="3">[3]</a> <a href="#3" id=3></a>
+</body>
+</html>

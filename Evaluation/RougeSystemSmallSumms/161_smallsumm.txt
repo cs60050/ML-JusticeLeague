@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>olymp etiquett : eight n't ask cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>beij china -lrb- ap -rrb- -- question salari .</a>
+<a name="3">[3]</a> <a href="#3" id=3>part eight n't ask display poster central beij district give convers etiquett guidelin resid meet foreign disabl athlet next month 's olymp .</a>
+<a name="4">[4]</a> <a href="#4" id=4>may beij organ apolog train manual issu thousand olymp paralymp volunt follow complaint inappropri languag use describ disabl athlet .</a>
+<a name="5">[5]</a> <a href="#5" id=5></a>
+</body>
+</html>

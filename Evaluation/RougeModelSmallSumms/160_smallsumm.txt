@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>ll ... announc readi announc .</a>
+<a name="2">[2]</a> <a href="#2" id=2>news meet first report washington post come amid report mccain campaign consid name vice presidenti candid week effort steal media spotlight sen. barack obama 's trip oversea .</a>
+<a name="3">[3]</a> <a href="#3" id=3></a>
+</body>
+</html>

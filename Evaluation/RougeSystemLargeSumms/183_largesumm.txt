@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>zakaria : vote move u.s. india closer cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>new york -lrb- cnn -rrb- -- indian prime minist manmohan singh vote confid week allow rule parti keep play propos nuclear partnership unit state .</a>
+<a name="3">[3]</a> <a href="#3" id=3>loss also would doom nuclear deal announc 2006 sign u.s. presid georg bush singh year ago would expand u.s.-indian cooper energi satellit technolog .</a>
+<a name="4">[4]</a> <a href="#4" id=4>deal would give india access u.s. nuclear fuel technolog civilian nuclear power plant -- even though new delhi test nuclear weapon 1974 1998 declin join intern nonprolifer agreement .</a>
+<a name="5">[5]</a> <a href="#5" id=5>leader india 's two communist parti accus singh surrend india 's sovereignti unit state deal .</a>
+<a name="6">[6]</a> <a href="#6" id=6>cnn : confid vote india mean ? .</a>
+<a name="7">[7]</a> <a href="#7" id=7>zakaria : econom term mean india access nuclear technolog around world .</a>
+<a name="8">[8]</a> <a href="#8" id=8>cnn : make u.s. india get closer ? .</a>
+<a name="9">[9]</a> <a href="#9" id=9>editor 's note : fare zakaria preemin foreign affair analyst host fare zakaria : gps cnn 1 p.m et sunday .</a>
+<a name="10">[10]</a> <a href="#10" id=10></a>
+</body>
+</html>

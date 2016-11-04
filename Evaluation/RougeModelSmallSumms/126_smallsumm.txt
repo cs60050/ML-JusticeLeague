@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>gaza citi -lrb- cnn -rrb- -- hour presid barack obama rode triumphal parad capitol hill white hous gaza citi anoth triumphal parad .</a>
+<a name="2">[2]</a> <a href="#2" id=2>despit israel 's intens bombard gaza death 1,300 peopl -lrb- major appear civilian -rrb- wound maim 5,000 destruct thousand build includ ministri hospit u.n. facil even gaza 's american intern school hama still busi .</a>
+<a name="3">[3]</a> <a href="#3" id=3>isra offici insist success crippl hama one gaza -- even would like see hama disappear face earth -- share opinion .</a>
+<a name="4">[4]</a> <a href="#4" id=4>short factor led israel 's offens -- rocket sieg hama polit isol -- unchang .</a>
+<a name="5">[5]</a> <a href="#5" id=5>may inde period relat quiet anoth flare -- perhap wors latest -- definit possibl .</a>
+<a name="6">[6]</a> <a href="#6" id=6></a>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>charg movi never watch cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>'s $ 24 charg two movi keeley hozjan 's hotel bill .</a>
+<a name="3">[3]</a> <a href="#3" id=3>movi never order watch .</a>
+<a name="4">[4]</a> <a href="#4" id=4>although hotel promis investig charg show hozjan 's credit card day checkout .</a>
+<a name="5">[5]</a> <a href="#5" id=5>receiv bill door morn departur notic balanc $ 24 two in-room movi order day one right .</a>
+<a name="6">[6]</a> <a href="#6" id=6>problem never order movi stay .</a>
+<a name="7">[7]</a> <a href="#7" id=7>'s travel companion dinner time movi alleg order .</a>
+<a name="8">[8]</a> <a href="#8" id=8>front desk manag said manag offer take one movi bill said no. final offer conduct investig secur person came duti .</a>
+<a name="9">[9]</a> <a href="#9" id=9>look credit card statement saw post movi charg account day disput bill .</a>
+<a name="10">[10]</a> <a href="#10" id=10>fact hotel charg card follow day would lead believ told want hear .</a>
+<a name="11">[11]</a> <a href="#11" id=11>contact liaison 's parent compani affinia refund charg movi immedi .</a>
+<a name="12">[12]</a> <a href="#12" id=12></a>
+</body>
+</html>

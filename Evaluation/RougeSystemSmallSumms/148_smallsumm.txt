@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>former manag say o.j simpson confess cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>said simpson smoke pot taken sleep pill drink beer confid home los angel brentwood area week trial happen night june 12 1994 .</a>
+<a name="3">[3]</a> <a href="#3" id=3>gilbert said paid simpson 80 percent kept 20 percent pay tax whole amount .</a>
+<a name="4">[4]</a> <a href="#4" id=4>goldman attorney david cook ask .</a>
+<a name="5">[5]</a> <a href="#5" id=5></a>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>cricket : still gentleman 's game ? cnn.com .</a>
+<a name="2">[2]</a> <a href="#2" id=2>new delhi india -lrb- cnn -rrb- -- 's 6.30 a.m. raini morn new delhi .</a>
+<a name="3">[3]</a> <a href="#3" id=3>cricket take commit say star student 17-year-old arjun gupta .</a>
+<a name="4">[4]</a> <a href="#4" id=4>cricket play gentleman say gupt ad sport requir tremend disciplin field .</a>
+<a name="5">[5]</a> <a href="#5" id=5>question whether cricket still deserv reput -- incid cricket pitch januari escal bitter racial row india australia .</a>
+<a name="6">[6]</a> <a href="#6" id=6>indian player harbhajan singh alleg call australia 's andrew symond big monkey -- alleg indian take light .</a>
+<a name="7">[7]</a> <a href="#7" id=7>conclus proof singh racial insult symond say chetan chauhan manag indian cricket team time .</a>
+<a name="8">[8]</a> <a href="#8" id=8>sledg think stamp pre-plan 's almost clinic somehow player plan go upset player abus say thing deepli offens would get negat reaction .</a>
+<a name="9">[9]</a> <a href="#9" id=9>cricket code conduct say chopra one modern school coach ad 's never earli start teach aspir cricket etiquett sport .</a>
+<a name="10">[10]</a> <a href="#10" id=10></a>
+</body>
+</html>

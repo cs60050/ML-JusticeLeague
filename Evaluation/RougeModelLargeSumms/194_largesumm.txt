@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>new york -lrb- cnn -rrb- -- everi day unit state thousand women famili experi one joyous occas lifetim -- birth child .</a>
+<a name="2">[2]</a> <a href="#2" id=2>joy certain often case mani part world .</a>
+<a name="3">[3]</a> <a href="#3" id=3>women least-develop countri 300 time like die childbirth complic relat pregnanc women develop countri .</a>
+<a name="4">[4]</a> <a href="#4" id=4>half million women die due pregnanc childbirth complic everi year .</a>
+<a name="5">[5]</a> <a href="#5" id=5>lack basic necess doctor nurs clean water suppli even medic facil rob precious innoc devast famili .</a>
+<a name="6">[6]</a> <a href="#6" id=6>servic often sore lack poorest region world particular africa asia account vast major worldwid matern newborn death .</a>
+<a name="7">[7]</a> <a href="#7" id=7>'s heartbreak hear women walk mile labor reach nearest hospit arriv find doctor avail condit unsanitari .</a>
+<a name="8">[8]</a> <a href="#8" id=8>mani case mother newborn lose live .</a>
+<a name="9">[9]</a> <a href="#9" id=9>unfortun stori like uncommon .</a>
+<a name="10">[10]</a> <a href="#10" id=10>educ women particular young girl critic health issu prioriti unicef .</a>
+<a name="11">[11]</a> <a href="#11" id=11>though challeng reach vulner high see import progress made intern support .</a>
+<a name="12">[12]</a> <a href="#12" id=12>howev must done .</a>
+<a name="13">[13]</a> <a href="#13" id=13>proven intervent key stage life pregnanc million women children save year .</a>
+<a name="14">[14]</a> <a href="#14" id=14>know vast major matern death prevent women access essenti matern basic health-car servic .</a>
+<a name="15">[15]</a> <a href="#15" id=15>effort design reduc death see remark improv .</a>
+<a name="16">[16]</a> <a href="#16" id=16></a>
+</body>
+</html>

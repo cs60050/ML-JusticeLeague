@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>las vega nevada -lrb- cnn -rrb- -- 130,000 techi converg las vega week 42nd annual intern consum electron show re encount industri 's anxious market high-tech gadget tightwad economi .</a>
+<a name="2">[2]</a> <a href="#2" id=2>financi fear also caus consum spend time home still want entertain .</a>
+<a name="3">[3]</a> <a href="#3" id=3>industri observ believ nest trend could sustain demand product -- blu-ray player stereo video game cheap comput -- brighten famili room eas sting cancel disney world vacat .</a>
+<a name="4">[4]</a> <a href="#4" id=4>uneasi eye economi tech compani seem scale back expect ces kick offici thursday .</a>
+<a name="5">[5]</a> <a href="#5" id=5>base scour tech blog interview industri observ 's brief roundup hot vega week : .</a>
+<a name="6">[6]</a> <a href="#6" id=6>netbook weak economi small cheap laptop continu popular .</a>
+<a name="7">[7]</a> <a href="#7" id=7>touch screen limit high-end smartphon appl 's iphon filter mid-rang devic well .</a>
+<a name="8">[8]</a> <a href="#8" id=8>wireless home electron .</a>
+<a name="9">[9]</a> <a href="#9" id=9>green product .</a>
+<a name="10">[10]</a> <a href="#10" id=10></a>
+</body>
+</html>

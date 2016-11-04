@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>40 head state govern expect summit includ french presid nicola sarkozi egyptian presid hosni mubarak .</a>
+<a name="2">[2]</a> <a href="#2" id=2></a>
+</body>
+</html>
