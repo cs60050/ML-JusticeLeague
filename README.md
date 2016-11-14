@@ -19,19 +19,16 @@ This is the repository for our term project - **Automatic Document Summarization
     Suryateja Chunduru    -  13EE10017
     Prasanth Balaga       -  09CS3031    
 ---------------------------------------------------------------------------------------------
-Update: Dated 5th September, 2016
 
 ##Introductory Presentation:
  Please follow this link to the RoadMap Presentation - [DocSummarization-ML](https://github.com/cs60050/ML-JusticeLeague/blob/master/DocSummarization-ML.pdf)
  
 ---------------------------------------------------------------------------------------------
-Update: Dated 23rd September, 2016
 
 ##Pre-Processing:
  The pre-processing is being done using the following steps -
  ![](./Pics/Pre-Processing.png)
 ---------------------------------------------------------------------------------------------
-Update: Dated 23rd September, 2016
 
 ##Features Identified:
  Our summarizer produces summaries using a feature profile oriented sentence extraction stategy. The following features have been identified as important:
@@ -48,7 +45,6 @@ Update: Dated 23rd September, 2016
     10) WORDNET BASED RANKING
 
 ----------------------------------------------------------------------------------------------
-Update: Dated 24th September, 2016
 
 ## Feature Extraction
   **Mean TF-ISF** 
@@ -70,3 +66,32 @@ Update: Dated 24th September, 2016
  **Wordnet Ranking**
 
    We created list of Keywords by taking Adjectives,nouns and Propernouns.We have calculated number of times a particular word or its synonyms occured in document by using synset.Now if Keyword is a properNoun a score of 1 is assigned or else a highest similarity score is assigned which is calculated with respect to synonyms of other words present in document.Now for each sentence a score is assigned which is (sum of scores of all keywords present in the sentence)/(Number of keywords present in sentence).
+
+ **Other Features**
+
+ 	Other features used in the summarization system include Textrank, ProperNouns, NumericalData
+
+----------------------------------------------------------------------------------------------
+
+## Algorithm and Model Used
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------
+
+## ROUGE Results
+
+ ![](./Pics/Large.png)
+
+
+ ![](./Pics/Small.png)
+
+
+----------------------------------------------------------------------------------------------
+
+
+
+
