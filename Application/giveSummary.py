@@ -6,6 +6,12 @@ import random
 import math
 
 sys.path.insert(0, '../FeatureExtraction')
+import nltk.data
+
+reload(sys)  
+sys.setdefaultencoding('utf8')
+
+tokenizer = nltk.data.load('tokenizers/punkt/english.pickle') 
 
 import FeatureExtractor
 
@@ -71,7 +77,7 @@ def getPredictions(summaries, testSet):
  
 def classify(inputVectors, mode_num):
 	if(mode_num == 1):
-		filename = "../ModelCreation/mined_data_comb.txt"				# consider that learned data is present in this file in the current directory
+		filename = "../ModelCreation/mined_data_small.txt"				# consider that learned data is present in this file in the current directory
 	else:
 		filename = "../ModelCreation/mined_data_large.txt"
 	summaries = loadFeatureData(filename)
@@ -86,11 +92,7 @@ def main():
 		print "Please provide proper arguments... python giveSummary.py <path_to_the_input_doc> "
 		return
 	
-	try:
-		input_full_doc = sys.argv[1]
-	except:
-		print "Please provide proper arguments.... python giveSummary.py <path_to_the_input_doc>"
-		return
+	input_full_doc = sys.argv[1]
 
 	try:
 		f1 = open(input_full_doc,"r")
@@ -100,15 +102,12 @@ def main():
 		# print e
 		return
 	full_doc = f1.read()
-	full_doc_lines = full_doc.splitlines()
+	full_doc_lines = tokenizer.tokenize(full_doc)
+	full_doc_lines = filter(lambda a: a.strip() != ".", full_doc_lines)
 	inputVectors = FeatureExtractor.extractFeatures(full_doc)
-
 	if len(inputVectors) == len(full_doc_lines):
 		predictions1 = classify(inputVectors, 1)
 		predictions2 = classify(inputVectors, 2)
-
-		print predictions1
-		print predictions2
 		f3 = open("output_largesumm.txt","w")
 		cnt = 0
 		for line in full_doc_lines:
@@ -123,7 +122,7 @@ def main():
 		f3 = open("output_smallsumm.txt","w")
 		cnt = 0
 		for line in full_doc_lines:
-			if predictions1[cnt] == 2:
+			if predictions1[cnt] == 1:
 				f3.write(line)
 				f3.write("\n")
 			cnt += 1

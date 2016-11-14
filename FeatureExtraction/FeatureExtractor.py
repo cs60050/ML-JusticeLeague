@@ -52,9 +52,11 @@ def extractFeatures(ip_doc):
 
             # Wordnet
             fVect.append(wordNetWeights[i])
+        
+        else:
+            fVect = [0, 0, 0, 0, 0, 0, 0]    
             
-            
-            featureVectors.append(fVect)
+        featureVectors.append(fVect)
             
 
 
