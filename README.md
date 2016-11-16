@@ -123,6 +123,8 @@ The results obtained for the summarizer developed are shown below.
 
 ## Final Presentation:
  Please follow this link to the Final Presentation - [DocSummarization-ML-Final-PPT](https://github.com/cs60050/ML-JusticeLeague/blob/master/JusticeLeague_PPT.pdf)
+ 
+ 
   Please follow this link to the Final Report - [DocSummarization-ML-Final-Report](https://github.com/cs60050/ML-JusticeLeague/blob/master/JusticeLeague_Report.pdf)
  
 ---------------------------------------------------------------------------------------------
